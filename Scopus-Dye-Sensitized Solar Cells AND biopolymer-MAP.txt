@@ -1,0 +1,1364 @@
+﻿id	label	x	y	cluster	weight<Links>	weight<Total link strength>	weight<Occurrences>	score<Avg. pub. year>
+1	1h nmr analysis	-0.1206	0.1262	18	44	44	1	2016
+2	3or i	0.3555	0.4247	13	69	69	1	2021
+3	ability	-0.3958	-0.3381	15	46	46	1	2024
+4	absorption	-1.0742	0.2486	20	39	39	1	2022
+5	absorption range	0.3548	0.4233	13	69	69	1	2021
+6	abstract	-0.1203	-0.3166	5	97	99	2	2022.5
+7	abundance	-0.2735	-0.8115	8	77	82	2	2021
+8	ac conductivity	-0.396	-0.3386	15	46	46	1	2024
+9	acceptable performance	-1.4925	-0.0755	14	51	51	1	2022
+10	activation energy	-0.6073	-0.3461	1	62	62	1	2015
+11	active species	-0.3574	0.0482	25	44	44	1	2021
+12	actuator	0.1014	-0.4079	7	72	72	1	2014
+13	addition	-0.4894	-0.2445	14	296	335	7	2020.4286
+14	additional population	-0.4139	1.3591	16	44	44	1	2014
+15	additive	0.4961	0.4841	10	245	286	5	2020.6
+16	additive material	0.5921	0.7111	12	74	74	1	2023
+17	additive tert butyl pyridine	0.5902	0.7148	12	74	74	1	2023
+18	advancement	-0.0962	-0.8676	23	82	85	2	2021
+19	advantage	0.4558	-0.6907	19	43	43	1	2016
+20	afm	0.2373	-0.5256	19	72	75	2	2013
+21	ag ch complex	0.0997	-0.4049	7	72	72	1	2014
+22	ag ch il sol	0.1001	-0.4044	7	72	72	1	2014
+23	ag ch il solution	0.1013	-0.4049	7	72	72	1	2014
+24	ag np	0.1025	-0.4053	7	72	72	1	2014
+25	ag nps	0.1032	-0.4054	7	72	72	1	2014
+26	ag nps ag ch composite material	0.1004	-0.4079	7	72	72	1	2014
+27	ag nps ag ch il sol	0.1016	-0.4037	7	72	72	1	2014
+28	ag2o	0.1016	-0.4042	7	72	72	1	2014
+29	agarose	-0.045	-0.2453	7	158	170	3	2018.3333
+30	agarose chitosan hybrid material	0.1008	-0.4042	7	72	72	1	2014
+31	agent	0.0501	-0.1625	7	191	212	4	2017.25
+32	aloe vera	-1.4934	-0.0738	14	51	51	1	2022
+33	ammonium iodide	-0.5698	-0.3924	1	41	41	1	2022
+34	ammonium iodide concentration	-0.6068	-0.3478	1	62	62	1	2015
+35	ammonium iodide electrolyte	-0.5693	-0.3931	1	41	41	1	2022
+36	amorphous phase	0.1301	0.6458	9	39	39	1	2014
+37	amorphousity	-0.3133	0.2103	3	38	38	1	2015
+38	amount	-0.1534	0.3043	9	173	185	5	2017.8
+39	amylopectin retrogradation	-0.414	1.3587	16	44	44	1	2014
+40	analysis	0.7698	0.6954	6	83	83	1	2022
+41	analytical technique	0.0995	-0.4072	7	72	72	1	2014
+42	analytical tool	0.0474	0.515	4	36	36	1	2022
+43	anion	-0.3563	0.0491	25	44	44	1	2021
+44	annealing	0.0034	0.8172	9	27	27	1	2014
+45	antisolvent methanol	0.1004	-0.4073	7	72	72	1	2014
+46	application	-0.1587	-0.1051	2	413	526	12	2018.1667
+47	appropriate interface modifier	2.7005	-0.4806	11	52	52	1	2018
+48	aqueous bio gel polymer	0.6101	0.248	26	51	51	1	2022
+49	aqueous dye sensitized solar cell	0.6096	0.2487	26	51	51	1	2022
+50	aromatic group	-0.1208	0.127	18	44	44	1	2016
+51	arrhenius behavior	-0.5264	0.2408	3	46	46	1	2016
+52	aspiration	-0.0452	-0.3741	5	42	42	1	2021
+53	atomic force microscopy	-0.2254	-0.175	2	32	32	1	2010
+54	attention	-0.1542	-0.614	8	133	143	3	2022
+55	attractive property	2.7007	-0.483	11	52	52	1	2018
+56	available beetroot	-0.3981	-0.5999	17	51	51	1	2020
+57	available pyridine	0.5923	0.7115	12	74	74	1	2023
+58	available raw material	-0.0984	-0.9914	8	45	45	1	2020
+59	bacterial nanocellulose	0.4568	-0.6913	19	43	43	1	2016
+60	banana peel	-1.4924	-0.0751	14	51	51	1	2022
+61	band gap energy	0.0879	-0.2113	22	61	61	1	2024
+62	bare hec	0.8513	0.0911	10	57	57	1	2021
+63	bare one	2.7002	-0.4816	11	52	52	1	2018
+64	barker	-0.5205	-0.5561	1	37	37	1	2022
+65	basis	-0.2259	1.1147	16	69	71	2	2014
+66	bb dye	0.3536	0.4242	13	69	69	1	2021
+67	behavior	0.2335	0.5453	9	108	108	2	2017.5
+68	benign biopolymer nanofibrous membrane	-0.0956	-0.7445	23	40	40	1	2022
+69	benzimidazole	0.7716	0.6989	6	83	83	1	2022
+70	benzoate	0.5906	0.7105	12	74	74	1	2023
+71	benzodimidazole ligand	0.7726	0.6943	6	83	83	1	2022
+72	benzyl	0.5926	0.7125	12	74	74	1	2023
+73	benzyl moiety	0.7731	0.6967	6	83	83	1	2022
+74	best abundant earth biopolymer	-1.4942	-0.0741	14	51	51	1	2022
+75	best affinity	-1.4924	-0.0753	14	51	51	1	2022
+76	best conducting sample	-0.6078	-0.3471	1	62	62	1	2015
+77	best device	0.4565	-0.6913	19	43	43	1	2016
+78	best efficiency	-0.0454	-0.3738	5	42	42	1	2021
+79	best ionic conductivity	-0.3571	0.048	25	44	44	1	2021
+80	best performance	-0.1198	0.1268	18	44	44	1	2016
+81	best qss dssc	-0.0944	-0.7446	23	40	40	1	2022
+82	better stability	0.8507	0.0912	10	57	57	1	2021
+83	binary compound semiconductor	-1.4924	-0.0748	14	51	51	1	2022
+84	binding facility	2.7004	-0.4812	11	52	52	1	2018
+85	bio organic compound	0.5897	0.7147	12	74	74	1	2023
+86	bioblended polymer gel electrolyte	0.3554	0.4236	13	69	69	1	2021
+87	biodegradable cellulose polymer gel electrolytes	0.853	0.0904	10	57	57	1	2021
+88	bioelectrolytes ge	0.3562	0.426	13	69	69	1	2021
+89	biogel electrolyte	0.3532	0.4253	13	69	69	1	2021
+90	biomedical application	0.0995	-0.4044	7	72	72	1	2014
+91	biopolymer	-0.2573	0.1706	16	358	443	11	2018.4545
+92	biopolymer blend electrolyte system	-0.5152	-0.3089	15	41	41	1	2016
+93	biopolymer blended cobalt	0.3555	0.4265	13	69	69	1	2021
+94	biopolymer chitosan	-0.1515	-0.3864	5	25	25	1	2019
+95	biopolymer cobalt redox	0.3565	0.4257	13	69	69	1	2021
+96	biopolymer composite membrane	-0.2249	-0.1745	2	32	32	1	2010
+97	biopolymer crust electrolyte	-0.7971	0.2338	3	27	27	1	2018
+98	biopolymer electrolyte	-0.3765	-0.1626	1	283	373	9	2018.3333
+99	biopolymer electrolyte function	-0.3981	-0.5993	17	51	51	1	2020
+100	biopolymer electrolyte pt ito dye sensitized solar cell	-0.1512	-0.3866	5	25	25	1	2019
+101	biopolymer electrolyte system	-0.066	-0.1503	21	56	56	1	2015
+102	biopolymer electrolytes	-0.5591	0.1302	2	35	35	1	2023
+103	biopolymer electrolytes system	-0.6064	-0.3472	1	62	62	1	2015
+104	biopolymer gel	-0.0452	-0.375	5	42	42	1	2021
+105	biopolymer gel electrolyte	0.355	0.426	13	69	69	1	2021
+106	biopolymer gel electrolyte system	0.0588	-0.0258	27	49	49	1	2017
+107	biopolymer gel electrolyte systems deal	0.8508	0.0909	10	57	57	1	2021
+108	biopolymer gum acacia speciman	-1.0749	0.2487	20	39	39	1	2022
+109	biopolymer host	0.5912	0.7106	12	74	74	1	2023
+110	biopolymer hybrid electrolyte	-0.5693	-0.3923	1	41	41	1	2022
+111	biopolymer hybrid system	-0.5699	-0.3929	1	41	41	1	2022
+112	biopolymer ionic liquid composite membrane	-0.2255	-0.1743	2	32	32	1	2010
+113	biopolymer matrix	-0.3764	0.1553	3	48	60	2	2013.5
+114	biopolymer moiety	0.1032	-0.4063	7	72	72	1	2014
+115	biopolymer structure	2.6999	-0.4818	11	52	52	1	2018
+116	biopolymeric electrolyte	-0.3789	0.6396	28	21	21	1	2015
+117	biopolymeric solid electrolyte	-0.379	0.6395	28	21	21	1	2015
+118	biotechnology	0.0999	-0.4076	7	72	72	1	2014
+119	black grape	-1.0739	0.249	20	39	39	1	2022
+120	blend	-0.6077	-0.3456	1	62	62	1	2015
+121	blend biopolymer electrolyte	0.7715	0.6971	6	83	83	1	2022
+122	blend biopolymer system	-0.6072	-0.3476	1	62	62	1	2015
+123	blended biopolymer	0.5904	0.7142	12	74	74	1	2023
+124	blended biopolymer gel electrolyte	0.3559	0.4264	13	69	69	1	2021
+125	blended polymer matrix	0.3556	0.4232	13	69	69	1	2021
+126	blending	-0.6055	-0.3459	1	62	62	1	2015
+127	blood berry	0.3561	0.4233	13	69	69	1	2021
+128	bmii	0.0098	-0.3363	5	73	78	2	2020
+129	bread crumb	-0.4139	1.358	16	44	44	1	2014
+130	bridged pyridinyl	0.7737	0.6973	6	83	83	1	2022
+131	bridged pyridinyl additive	0.7713	0.6981	6	83	83	1	2022
+132	brief period	-0.397	-0.5991	17	51	51	1	2020
+133	bulk resistance	0.5919	0.713	12	74	74	1	2023
+134	bulky cf3 acceptor	0.7689	0.6957	6	83	83	1	2022
+135	butyl	0.0054	-0.4722	5	176	190	4	2019
+136	butylene	0.1305	0.6459	9	39	39	1	2014
+137	butylene succinate	0.1309	0.6457	9	39	39	1	2014
+138	c2 device	0.5902	0.7106	12	74	74	1	2023
+139	c2 redox couple	0.5924	0.7136	12	74	74	1	2023
+140	caf1 protein	2.7001	-0.4807	11	52	52	1	2018
+141	caf1 ptio2	2.7016	-0.4814	11	52	52	1	2018
+142	cap	-0.3977	-0.5995	17	51	51	1	2020
+143	capacitive nature	-0.797	0.2335	3	27	27	1	2018
+144	capacity	0.0869	-0.2111	22	61	61	1	2024
+145	caprolactone	0.0475	0.5149	4	36	36	1	2022
+146	carbohydrate polymer	-0.314	0.2102	3	38	38	1	2015
+147	carboxy methyl cellulose	-0.3952	-0.3383	15	46	46	1	2024
+148	carboxyl	0.0469	0.5145	4	36	36	1	2022
+149	carboxylic group	0.1305	0.6457	9	39	39	1	2014
+150	carboxymethyl	-0.5157	-0.3084	15	41	41	1	2016
+151	carboxymethyl cellulose	-0.5011	-0.3435	15	102	108	2	2019.5
+152	carboxymethyl cellulose sodium salt	0.325	-0.1205	24	46	46	1	2013
+153	carboxymethyl kappa carrageenan	-0.6061	-0.3452	1	62	62	1	2015
+154	carboxymethyl kappa carrageenan carboxymethyl cellulose	-0.5676	-0.4272	1	115	140	3	2019.6667
+155	carboxymethyl kappa carrageenan carboxymethyl cellulose chain	-0.6067	-0.3451	1	62	62	1	2015
+156	carboxymethyl kappa carrageenan carboxymethyl cellulose hybrid	-0.5694	-0.3928	1	41	41	1	2022
+157	carboxymethyl kappa carragenan	-0.606	-0.3461	1	62	62	1	2015
+158	carrageenan carboxymethyl cellulose blend	-0.5149	-0.308	15	41	41	1	2016
+159	carrageenan carboxymethyl cellulose polymer electrolyte	-0.5147	-0.3082	15	41	41	1	2016
+160	carrageenan dmso tbaii2	-0.0663	-0.151	21	56	56	1	2015
+161	case	0.3543	0.4254	13	69	69	1	2021
+162	catalyst	0.1313	0.6464	9	39	39	1	2014
+163	catalytic effect	0.7714	0.6935	6	83	83	1	2022
+164	cation	-0.3566	0.0485	25	44	44	1	2021
+165	cation size	-0.5698	-0.3934	1	41	41	1	2022
+166	cd spectroscopy	0.1011	-0.4037	7	72	72	1	2014
+167	cell	0.7232	-0.1826	11	228	247	5	2016.8
+168	cell efficiency	-0.3569	0.0482	25	44	44	1	2021
+169	cell electrode	-0.3569	0.0492	25	44	44	1	2021
+170	cell structure	0.5893	0.7112	12	74	74	1	2023
+171	cellulose	0.3241	-0.3915	19	138	142	3	2016.6667
+172	cellulose derivative	-0.6055	-0.3464	1	62	62	1	2015
+173	cellulose substrate	0.4567	-0.6915	19	43	43	1	2016
+174	cellulosic substrate	0.4563	-0.6906	19	43	43	1	2016
+175	century	-0.0973	-0.9917	8	45	45	1	2020
+176	chain	2.7007	-0.4811	11	52	52	1	2018
+177	change	-0.4137	1.3589	16	44	44	1	2014
+178	characteristic non ionic polysaccharide	-0.0405	0.2444	4	35	35	1	2020
+179	characteristic peak	-0.1201	0.1268	18	44	44	1	2016
+180	characterization	-0.2871	-0.039	2	158	191	4	2016
+181	charge	-0.5156	-0.3079	15	41	41	1	2016
+182	charge carrier	-0.5666	-0.4442	1	89	99	2	2018.5
+183	charge carrier density	-0.5267	0.2409	3	46	46	1	2016
+184	charge recombination	-0.1499	0.2209	4	38	38	1	2017
+185	charge transfer	-0.1494	0.2204	4	38	38	1	2017
+186	charge transfer resistance	0.6844	0.7043	6	141	157	2	2022.5
+187	chelate complex structure	0.0467	0.5142	4	36	36	1	2022
+188	chemical capacitance	0.4734	0.5694	13	138	143	2	2022
+189	chemical stability	0.0862	-0.2114	22	61	61	1	2024
+190	chemical titration	0.1309	0.646	9	39	39	1	2014
+191	chemometric approach	-0.3789	0.6398	28	21	21	1	2015
+192	chemometric doe approach	0.3252	-0.1202	24	46	46	1	2013
+193	chitosan	-0.141	-0.2161	7	250	291	7	2017.1429
+194	chitosan biopolymer	-0.1442	-0.8002	8	36	36	1	2023
+195	chitosan doped	-0.225	-0.1748	2	32	32	1	2010
+196	chitosan nai electrolyte	-0.3561	0.0481	25	44	44	1	2021
+197	chitosan nanoparticle	-0.1496	0.2207	4	38	38	1	2017
+198	chl particle	-1.4939	-0.0749	14	51	51	1	2022
+199	chromophore	-1.0751	0.2487	20	39	39	1	2022
+200	citric acid cross	0.0589	-0.0254	27	49	49	1	2017
+201	classical flory theory	0.1308	0.6468	9	39	39	1	2014
+202	clean energy	-0.397	-0.601	17	51	51	1	2020
+203	cm2	0.7728	0.6976	6	83	83	1	2022
+204	cm2 s1	0.0472	0.5151	4	36	36	1	2022
+205	cmc	0.326	-0.1201	24	46	46	1	2013
+206	cnc	0.4561	-0.6909	19	43	43	1	2016
+207	cnc film	0.4558	-0.6916	19	43	43	1	2016
+208	co2	0.5712	0.5656	6	147	152	2	2021.5
+209	co2 3redox pair	0.3532	0.4244	13	69	69	1	2021
+210	co3 ion species	0.7691	0.6951	6	83	83	1	2022
+211	cobalt	0.769	0.6968	6	83	83	1	2022
+212	colour	-1.0744	0.2484	20	39	39	1	2022
+213	combination	-0.0977	-0.9909	8	45	45	1	2020
+214	commercialization	-0.15	0.2206	4	38	38	1	2017
+215	common organic solvent	-0.1206	0.1271	18	44	44	1	2016
+216	communication	-0.5594	0.1299	2	35	35	1	2023
+217	comparable power conversion efficiency	-0.0952	-0.7444	23	40	40	1	2022
+218	comparative measured value	-0.4185	-0.0512	18	37	37	1	2017
+219	comparison	-0.1662	0.1956	4	57	58	2	2016
+220	comparison study	0.5897	0.7141	12	74	74	1	2023
+221	compatibility	0.101	-0.4079	7	72	72	1	2014
+222	competitive conversion efficiency	0.0581	-0.0254	27	49	49	1	2017
+223	competitive cost	-0.0641	-0.151	21	56	56	1	2015
+224	complex	0.3447	0.6787	9	112	113	2	2018.5
+225	complex impedance spectroscopy	-0.3393	0.1754	3	57	71	2	2014
+226	complex nature	-0.3142	0.2104	3	38	38	1	2015
+227	complex structure	-0.5261	0.2408	3	46	46	1	2016
+228	complexation	-0.491	-0.3479	15	116	128	3	2020.6667
+229	component	0.1192	-0.2362	24	69	71	2	2016
+230	composite	0.1025	-0.4042	7	72	72	1	2014
+231	composite ionogel	0.0991	-0.4068	7	72	72	1	2014
+232	composite material	0.0998	-0.4069	7	72	72	1	2014
+233	composite nature	-0.3149	0.0871	3	91	130	4	2013
+234	composition	-0.3691	0.0906	3	84	108	3	2015
+235	concentration	-0.1573	-0.0481	21	80	83	2	2014.5
+236	condition	0.7696	0.6962	6	83	83	1	2022
+237	conduction	-0.3562	0.0479	25	44	44	1	2021
+238	conductive carbon	-0.0953	-0.7439	23	40	40	1	2022
+239	conductive layer	-0.3961	-0.3389	15	46	46	1	2024
+240	conductive property	-0.6074	-0.3473	1	62	62	1	2015
+241	conductivity	-0.6863	-0.2829	14	221	254	5	2018
+242	conductivity data	-0.5257	0.2409	3	46	46	1	2016
+243	conductivity enhancement	-0.3771	0.1234	3	33	33	1	2013
+244	conductivity increase	-0.5148	-0.3087	15	41	41	1	2016
+245	conductivity maxima	-0.4252	0.1115	3	125	163	4	2016.5
+246	conductivity temperature plot	-0.6059	-0.3475	1	62	62	1	2015
+247	configuration	-0.1514	-0.3868	5	25	25	1	2019
+248	conformational change	0.058	-0.0267	27	49	49	1	2017
+249	conformational stability	0.0995	-0.4057	7	72	72	1	2014
+250	conjugated system	0.8519	0.0921	10	57	57	1	2021
+251	constant current chargedischarge	-0.5589	0.1294	2	35	35	1	2023
+252	constraint resistance	0.7692	0.6979	6	83	83	1	2022
+253	continual escalation	-0.0982	-0.992	8	45	45	1	2020
+254	continuous reorganization	0.1308	0.6466	9	39	39	1	2014
+255	contrast	-0.7969	0.2338	3	27	27	1	2018
+256	conventional conducting substrate	0.4556	-0.6905	19	43	43	1	2016
+257	conversion efficiency	-0.1498	0.22	4	38	38	1	2017
+258	cooling	0.0989	-0.4058	7	72	72	1	2014
+259	copper complex	0.7731	0.695	6	83	83	1	2022
+260	copper gel electrolyte system	0.7698	0.6942	6	83	83	1	2022
+261	copper metal	0.5903	0.7112	12	74	74	1	2023
+262	copper metal complex electrolyte	0.7689	0.6963	6	83	83	1	2022
+263	copper redox	0.5903	0.7124	12	74	74	1	2023
+264	copper redox mediator	0.5911	0.714	12	74	74	1	2023
+265	cornstarch	-0.3833	-0.0617	2	57	57	1	2023
+266	correlation study	0.3542	0.4267	13	69	69	1	2021
+267	corresponding dssc	0.0587	-0.0269	27	49	49	1	2017
+268	corresponding reference liquid electrolyte	-0.1816	0.1725	4	20	20	1	2015
+269	cost	0.4562	-0.692	19	43	43	1	2016
+270	cost effective polymer gel electrolyte	-0.0401	0.2447	4	35	35	1	2020
+271	cost effective thermoplastic gel electrolyte	-0.045	-0.3743	5	42	42	1	2021
+272	costly additive	0.6092	0.2481	26	51	51	1	2022
+273	counter electrode	0.4608	0.2838	6	141	144	2	2023
+274	crab shell	-0.12	0.1263	18	44	44	1	2016
+275	creation	-0.1533	-0.2755	22	105	107	2	2024
+276	credible competitor	0.0577	-0.0263	27	49	49	1	2017
+277	criterium	0.6092	0.2487	26	51	51	1	2022
+278	critical review	-0.097	-0.991	8	45	45	1	2020
+279	cross	0.0589	-0.0263	27	49	49	1	2017
+280	crumb firming	-0.4143	1.359	16	44	44	1	2014
+281	crust electrolyte	-0.7967	0.2339	3	27	27	1	2018
+282	crystal	0.0035	0.8175	9	27	27	1	2014
+283	crystalline	0.4553	-0.6917	19	43	43	1	2016
+284	crystalline phase	0.1307	0.6469	9	39	39	1	2014
+285	crystalline solid biopolymer	0.0477	0.5145	4	36	36	1	2022
+286	crystalline structure	0.0037	0.8175	9	27	27	1	2014
+287	crystallinity	-0.2394	0.0658	3	264	360	9	2016.6667
+288	crystallization	0.131	0.6458	9	39	39	1	2014
+289	crystallization behavior	0.0033	0.8176	9	27	27	1	2014
+290	cu1	0.7716	0.6959	6	83	83	1	2022
+291	cu2	0.771	0.6989	6	83	83	1	2022
+292	cumulative effect	0.3259	-0.1215	24	46	46	1	2013
+293	current conversion efficiency	0.0468	0.515	4	36	36	1	2022
+294	current density	-0.4185	-0.0504	18	37	37	1	2017
+295	current energy situation	-0.3972	-0.5998	17	51	51	1	2020
+296	current voltage	0.0881	-0.2092	22	61	61	1	2024
+297	current voltage measurement	-0.1165	-0.1911	7	113	116	2	2017.5
+298	curve	0.0882	-0.211	22	61	61	1	2024
+299	cycle	0.0871	-0.2117	22	61	61	1	2024
+300	cyclic voltammetry	-0.1192	0.0519	2	218	254	5	2020.2
+301	cyclohex	0.5886	0.7129	12	74	74	1	2023
+302	d limonene additive	0.5897	0.711	12	74	74	1	2023
+303	data evaluation affirm	-0.4192	-0.0504	18	37	37	1	2017
+304	day	0.0467	0.5147	4	36	36	1	2022
+305	decay	2.7016	-0.4824	11	52	52	1	2018
+306	decent efficiency	-0.3977	-0.601	17	51	51	1	2020
+307	decoration	0.1029	-0.4045	7	72	72	1	2014
+308	deep ultraviolet range	-1.0751	0.2485	20	39	39	1	2022
+309	degree	0.0594	-0.026	27	49	49	1	2017
+310	density functional theory	0.3563	0.4246	13	69	69	1	2021
+311	detail	-0.4712	0.0446	2	176	242	6	2019
+312	development	-0.2026	-0.5904	8	126	138	3	2019
+313	device	0.5707	0.4383	6	181	203	3	2019.3333
+314	device stability	-0.1817	0.1723	4	20	20	1	2015
+315	dft	0.3567	0.4253	13	69	69	1	2021
+316	dielectric	-0.7968	0.2336	3	27	27	1	2018
+317	dielectric loss	0.7704	0.6988	6	83	83	1	2022
+318	dielectric phenomenon	-0.5254	0.2416	3	46	46	1	2016
+319	dielectric study	-0.3965	-0.5997	17	51	51	1	2020
+320	differential scanning	0.1006	-0.4038	7	72	72	1	2014
+321	differential scanning calorimetry	-0.0545	0.7867	16	167	175	4	2017.25
+322	diffusion	0.771	0.6943	6	83	83	1	2022
+323	diffusion coefficient	-0.1093	0.2815	3	195	212	4	2017.75
+324	diffusion length	0.5921	0.714	12	74	74	1	2023
+325	dimethyl sulfoxide	-0.4187	-0.0503	18	37	37	1	2017
+326	dimethylformamide	-0.0019	-0.1908	5	127	139	3	2019.3333
+327	dimidazol	0.8531	0.0916	10	57	57	1	2021
+328	diminished crystallinity	0.1493	-0.294	5	53	53	1	2021
+329	direct conversion	-0.0971	-0.9913	8	45	45	1	2020
+330	direction	-0.3977	-0.6001	17	51	51	1	2020
+331	dissociation	-0.0659	-0.1509	21	56	56	1	2015
+332	dissolution	0.1011	-0.4073	7	72	72	1	2014
+333	dmf	-0.26	0.0434	18	76	81	2	2016.5
+334	dmso	-0.4193	-0.0507	18	37	37	1	2017
+335	dopant	-0.3824	-0.0606	2	57	57	1	2023
+336	doped ionic liquid film	-0.2256	-0.1748	2	32	32	1	2010
+337	doping	0.0858	-0.2112	22	61	61	1	2024
+338	doping salt	-0.57	-0.3934	1	41	41	1	2022
+339	dpipa	0.8528	0.0902	10	57	57	1	2021
+340	dpmda	0.8525	0.09	10	57	57	1	2021
+341	dpmppa	0.8518	0.0917	10	57	57	1	2021
+342	dptcy dye mn m	0.7719	0.694	6	83	83	1	2022
+343	dsc	0.1549	0.3647	16	332	358	7	2016.5714
+344	dsc measurement	0.13	0.6465	9	39	39	1	2014
+345	dsp	0.7708	0.6936	6	83	83	1	2022
+346	dssc	-0.0639	-0.1027	2	930	1314	30	2019.4667
+347	dssc application	-0.4184	-0.0509	18	37	37	1	2017
+348	dssc cell	0.0585	-0.0253	27	49	49	1	2017
+349	dssc characterization	-0.0641	-0.1506	21	56	56	1	2015
+350	dssc device	-0.0949	-0.7449	23	40	40	1	2022
+351	dssc electrolyte	-1.4927	-0.0748	14	51	51	1	2022
+352	dssc photoanode material	-0.3978	-0.5991	17	51	51	1	2020
+353	dssc property	-0.1446	-0.8004	8	36	36	1	2023
+354	dssc supercapacitor	-0.3964	-0.6004	17	51	51	1	2020
+355	dsscs	0.4754	-0.2816	8	353	403	9	2019.7778
+356	dsscs device	0.589	0.7116	12	74	74	1	2023
+357	dual energy device	-0.5589	0.1302	2	35	35	1	2023
+358	dual purpose	-0.3984	-0.5997	17	51	51	1	2020
+359	durability	0.3248	-0.1211	24	46	46	1	2013
+360	dye	0.3128	0.0609	10	297	341	6	2020
+361	dye coated tio2 photoanode	-0.0405	0.245	4	35	35	1	2020
+362	dye electrolyte interface	-0.1502	0.2209	4	38	38	1	2017
+363	dye regeneration	0.5921	0.7123	12	74	74	1	2023
+364	dye sensitised solar cell	-0.7562	0.1591	20	83	83	2	2021.5
+365	dye sensitised solar cell performance	-1.4928	-0.074	14	51	51	1	2022
+366	dye sensitive solar cell	-0.5153	-0.309	15	41	41	1	2016
+367	dye sensitized solar cell	0.0002	-0.0753	4	924	1353	31	2018.8065
+368	dye sensitized solar cell application	0.1059	0.231	6	288	348	7	2019.1429
+369	dye sensitized solar cell applications	-0.3826	-0.0614	2	57	57	1	2023
+370	dye sensitized solar cell fabrication	-0.5265	0.2415	3	46	46	1	2016
+371	dye sensitized solar cell integrated supercapacitor	-0.3968	-0.6001	17	51	51	1	2020
+372	dye sensitized solar cell performance	-0.5149	-0.3089	15	41	41	1	2016
+373	dye sensitized solar cells	0.8509	0.0903	10	57	57	1	2021
+374	dye sensitized solar cells application	-0.5692	-0.3934	1	41	41	1	2022
+375	dynamic mechanical analysis	-0.607	-0.3472	1	62	62	1	2015
+376	ease	-0.0643	-0.1514	21	56	56	1	2015
+377	easy manufacturing	-0.3968	-0.5992	17	51	51	1	2020
+378	easy production	-0.0984	-0.9912	8	45	45	1	2020
+379	ecological concern	-1.4931	-0.075	14	51	51	1	2022
+380	edax	0.1028	-0.4071	7	72	72	1	2014
+381	edlc	-0.49	-0.0026	2	100	126	3	2022.6667
+382	edlc cell	-0.5584	0.1298	2	35	35	1	2023
+383	edlcs	-0.5591	0.1298	2	35	35	1	2023
+384	edx	0.6095	0.2493	26	51	51	1	2022
+385	effect	-0.1615	0.0855	14	388	463	9	2019.4444
+386	effective dssc system	0.0866	-0.2104	22	61	61	1	2024
+387	effective reduction	0.148	-0.2943	5	53	53	1	2021
+388	effective role	0.6107	0.2493	26	51	51	1	2022
+389	efficiency	-0.0975	0.1325	3	540	722	16	2018.4375
+390	efficient dssc	-0.0953	-0.7437	23	40	40	1	2022
+391	efficient dye sensitized solar cell	-0.0949	-0.7437	23	40	40	1	2022
+392	efficient dye sensitized solar cells	-0.5593	0.1297	2	35	35	1	2023
+393	efficient electrochemical cell	2.7011	-0.481	11	52	52	1	2018
+394	efficient generation technology	-1.4927	-0.0758	14	51	51	1	2022
+395	efficient solidifier	-0.1815	0.1723	4	20	20	1	2015
+396	eis	-0.3221	-0.204	17	136	146	3	2020
+397	eis measurement	-0.3834	-0.0606	2	57	57	1	2023
+398	electric double layer capacitor	-0.5587	0.1296	2	35	35	1	2023
+399	electrical	-0.4618	0.0153	2	113	129	3	2021
+400	electrical characterisation	-1.0743	0.2489	20	39	39	1	2022
+401	electrical conductivity	-1.0746	0.248	20	39	39	1	2022
+402	electrical energy	-1.4943	-0.0756	14	51	51	1	2022
+403	electrical impedance spectroscopy	-0.7972	0.2339	3	27	27	1	2018
+404	electrical power	-0.0973	-0.9921	8	45	45	1	2020
+405	electrical property	-0.7221	0.2192	20	59	59	2	2018.5
+406	electrochemical behavior	-0.3965	-0.5994	17	51	51	1	2020
+407	electrochemical conversion device	-1.4938	-0.0756	14	51	51	1	2022
+408	electrochemical device	-0.4188	-0.0205	25	77	78	2	2021.5
+409	electrochemical double layer capacitor	-0.3844	-0.0606	2	57	57	1	2023
+410	electrochemical effect	-0.0947	-0.7449	23	40	40	1	2022
+411	electrochemical factor	0.5886	0.7135	12	74	74	1	2023
+412	electrochemical impedance spectroscopy	-0.276	-0.2674	1	285	347	7	2019.2857
+413	electrochemical impedance spectrum result	0.3559	0.424	13	69	69	1	2021
+414	electrochemical property	-0.5884	-0.3694	1	92	103	2	2018.5
+415	electrochemical stability	-0.5209	-0.5559	1	37	37	1	2022
+416	electrochemical study	0.0865	-0.209	22	61	61	1	2024
+417	electrochemist	-0.0456	-0.3741	5	42	42	1	2021
+418	electrochromic display	0.0996	-0.4064	7	72	72	1	2014
+419	electrolyte	-0.1059	-0.0508	5	619	801	17	2019.7059
+420	electrolyte dissociation theory	-0.5212	-0.5556	1	37	37	1	2022
+421	electrolyte sample	-0.607	-0.3452	1	62	62	1	2015
+422	electrolyte uptake	-0.095	-0.7446	23	40	40	1	2022
+423	electrolytes	-0.3832	-0.0597	2	57	57	1	2023
+424	electron	-0.3726	0.3872	20	226	247	4	2022.25
+425	electron lifetime	0.645	0.4375	10	279	334	5	2021.8
+426	electron micrography	0.1	-0.4039	7	72	72	1	2014
+427	electron microscopy	-0.1348	0.1522	9	245	286	6	2017.3333
+428	electron recombination	2.6996	-0.4828	11	52	52	1	2018
+429	electron rich triphenylamine core	0.8513	0.0905	10	57	57	1	2021
+430	electron transfer rate	2.7008	-0.4807	11	52	52	1	2018
+431	electron transport	-0.1497	0.2204	4	38	38	1	2017
+432	electrophotochemical study	-0.4187	-0.051	18	37	37	1	2017
+433	electrospun	-0.0949	-0.7442	23	40	40	1	2022
+434	electrospun membrane	-0.0946	-0.7443	23	40	40	1	2022
+435	elevate ionic conductivity	0.1485	-0.293	5	53	53	1	2021
+436	embedded energy system	-0.3973	-0.5994	17	51	51	1	2020
+437	embedded energy unit	-0.3982	-0.6007	17	51	51	1	2020
+438	emimscn	-0.3153	-0.1097	2	76	89	2	2016.5
+439	ene	0.5912	0.7146	12	74	74	1	2023
+440	energy	2.6994	-0.4823	11	52	52	1	2018
+441	energy application	-0.3135	0.2107	3	38	38	1	2015
+442	energy conversion	-0.3573	0.0484	25	44	44	1	2021
+443	energy density	-0.3833	-0.0612	2	57	57	1	2023
+444	energy device	-0.4054	-0.3791	17	85	88	2	2018.5
+445	energy state	-1.0744	0.2494	20	39	39	1	2022
+446	enhanced dye loading capability	2.6996	-0.481	11	52	52	1	2018
+447	enhanced photoconversion efficiency	0.6111	0.2482	26	51	51	1	2022
+448	enhanced population	2.6993	-0.4821	11	52	52	1	2018
+449	enhancement	0.2119	0.4478	6	134	148	3	2017
+450	enormous consideration	-0.0971	-0.992	8	45	45	1	2020
+451	enormous energy	-0.3969	-0.5996	17	51	51	1	2020
+452	environmental friendliness	-0.5204	-0.5559	1	37	37	1	2022
+453	ethyl	-0.438	-0.0367	2	116	158	4	2019.5
+454	ethylene carbonate	-0.121	0.1265	18	44	44	1	2016
+455	evaporation	-0.1503	0.2201	4	38	38	1	2017
+456	excellent efficiency	0.101	0.011	24	64	66	2	2014
+457	excellent mobility	-1.4935	-0.0754	14	51	51	1	2022
+458	experimental condition	0.0034	0.8176	9	27	27	1	2014
+459	exponential depletion	-0.0976	-0.9906	8	45	45	1	2020
+460	extensive application	-0.1449	-0.7996	8	36	36	1	2023
+461	external catalyzed reaction	0.131	0.6463	9	39	39	1	2014
+462	extreme aging condition	0.3261	-0.1213	24	46	46	1	2013
+463	f g	-0.5149	-0.1313	2	34	34	1	2022
+464	f gram	-0.5587	0.1294	2	35	35	1	2023
+465	fabricated cell	-0.6058	-0.3456	1	62	62	1	2015
+466	fabricated device	0.3157	0.5092	12	102	109	2	2021.5
+467	fabricated dye sensitized solar cell	-0.7967	0.234	3	27	27	1	2018
+468	fabrication	-0.1782	-0.1652	5	342	425	9	2019.1111
+469	facile esterification process	0.1475	-0.2938	5	53	53	1	2021
+470	facile preparation	0.0992	-0.4048	7	72	72	1	2014
+471	facility	2.7006	-0.4823	11	52	52	1	2018
+472	factor	-0.0307	0.0015	5	120	135	3	2018
+473	fast charge recombination kinetic	2.7013	-0.481	11	52	52	1	2018
+474	faster crystallization rate	0.1312	0.6461	9	39	39	1	2014
+475	favorable condition	-0.3771	0.1238	3	33	33	1	2013
+476	favourable condition	-0.3139	0.2105	3	38	38	1	2015
+477	feature	0.0863	-0.211	22	61	61	1	2024
+478	fesem	0.0883	-0.2096	22	61	61	1	2024
+479	field emission scanning electron microscopy	0.0278	0.0023	22	92	96	2	2022
+480	figure	0.1491	-0.2941	5	53	53	1	2021
+481	fill factor	-0.523	-0.1333	14	246	282	6	2020.1667
+482	filler	-0.2267	-0.2435	21	99	102	2	2019.5
+483	film	-0.3681	-0.3621	15	154	181	5	2018.2
+484	fine channel	0.0861	-0.2098	22	61	61	1	2024
+485	firm	-0.4148	1.3578	16	44	44	1	2014
+486	firming	-0.4152	1.358	16	44	44	1	2014
+487	first time	0.4564	-0.6917	19	43	43	1	2016
+488	flexible substrates compatibility	-0.3976	-0.599	17	51	51	1	2020
+489	flour water model system	-0.4139	1.3589	16	44	44	1	2014
+490	fluorescence spectroscopy	-0.1451	-0.8001	8	36	36	1	2023
+491	fluorine doped tin oxide titanium dioxide	-0.5255	0.2412	3	46	46	1	2016
+492	folds enhancement	-0.3773	0.1237	3	33	33	1	2013
+493	force	0.5897	0.7117	12	74	74	1	2023
+494	form	0.2888	0.7691	9	101	101	2	2018.5
+495	formation	-0.3925	0.0635	3	185	250	6	2014.8333
+496	fossil fuel	-0.0646	-0.1511	21	56	56	1	2015
+497	fossil fuel consumption	-1.4932	-0.0741	14	51	51	1	2022
+498	fossil fuel source	-0.0984	-0.9918	8	45	45	1	2020
+499	fourier	-0.2446	-0.1715	1	448	606	13	2018.4615
+500	frequency range	-0.5154	-0.3085	15	41	41	1	2016
+501	fresh crumb	-0.4137	1.3586	16	44	44	1	2014
+502	friendly alternative	-0.3791	0.6397	28	21	21	1	2015
+503	fruit	-1.0746	0.2482	20	39	39	1	2022
+504	ft ir	-0.4443	-0.2532	15	75	80	2	2023
+505	ftir	0.2975	0.1787	7	303	351	6	2017.5
+506	ftir spectroscopy	-0.1203	0.1261	18	44	44	1	2016
+507	ftir study	-0.6063	-0.3477	1	62	62	1	2015
+508	ftir technique	-0.396	-0.3383	15	46	46	1	2024
+509	fto tio2 dye cmkc cmce lii	-0.5157	-0.3081	15	41	41	1	2016
+510	fto tio2 dye cmkc cmce nh4i	-0.6078	-0.3461	1	62	62	1	2015
+511	functional group	-1.075	0.2483	20	39	39	1	2022
+512	further characterization	-0.15	0.2202	4	38	38	1	2017
+513	further suppress polymer crystallinity	0.1495	-0.2931	5	53	53	1	2021
+514	future research area	-0.0976	-0.9922	8	45	45	1	2020
+515	g mol	0.1307	0.6457	9	39	39	1	2014
+516	galvanostatic charge discharge	-0.3841	-0.0614	2	57	57	1	2023
+517	gdc	-0.3836	-0.0598	2	57	57	1	2023
+518	gel	0.1477	-0.2928	5	53	53	1	2021
+519	gel electrolyte	0.178	0.2218	4	255	304	6	2020.5
+520	gel electrolyte pani go	0.0855	-0.2103	22	61	61	1	2024
+521	gel electrolyte system	-0.2012	0.1043	3	96	120	3	2015
+522	gel matrix	-0.3391	0.1752	3	57	71	2	2014
+523	gel permeation chromatography	0.1022	-0.4047	7	72	72	1	2014
+524	gel polymer electrolyte	0.1249	-0.0077	24	87	90	2	2014.5
+525	gelatin	0.3566	0.4241	13	69	69	1	2021
+526	gelrite phytagel biopolymer matrix	-0.3135	0.2101	3	38	38	1	2015
+527	glass	0.4554	-0.6909	19	43	43	1	2016
+528	glucosyl carboxonium ion	-0.7968	0.2342	3	27	27	1	2018
+529	gluten free bread	-0.4149	1.3589	16	44	44	1	2014
+530	gluten free bread loafe	-0.4144	1.3583	16	44	44	1	2014
+531	gluten free rice	-0.4145	1.3593	16	44	44	1	2014
+532	glycerol	0.0577	-0.026	27	49	49	1	2017
+533	good antimicrobial activity	0.1023	-0.4068	7	72	72	1	2014
+534	good electrochemical property	0.8531	0.0908	10	57	57	1	2021
+535	good energy conversion efficiency	-0.0641	-0.1503	21	56	56	1	2015
+536	good incorporation	-0.2256	-0.1746	2	32	32	1	2010
+537	good mechanical flexibility	0.4565	-0.6906	19	43	43	1	2016
+538	good power conversion efficiency	0.8515	0.0899	10	57	57	1	2021
+539	good prospect	-0.0445	-0.374	5	42	42	1	2021
+540	good response	-0.5695	-0.3935	1	41	41	1	2022
+541	good short circuit current density	-0.0947	-0.7437	23	40	40	1	2022
+542	good thermal stability	-0.559	0.1304	2	35	35	1	2023
+543	good tri iodide diffusion	0.0474	0.5142	4	36	36	1	2022
+544	gpc	0.099	-0.4053	7	72	72	1	2014
+545	grape fruit	-1.0742	0.2481	20	39	39	1	2022
+546	graphene	-0.2451	-0.3988	17	150	158	3	2022.6667
+547	graphic	0.1481	-0.2928	5	53	53	1	2021
+548	great outlook	-0.0951	-0.7436	23	40	40	1	2022
+549	great potential	-0.1815	0.1722	4	20	20	1	2015
+550	greater stability	-0.0944	-0.7442	23	40	40	1	2022
+551	guar bean	-0.0403	0.2449	4	35	35	1	2020
+552	guar gum	-0.0406	0.2441	4	35	35	1	2020
+553	guar gum biopolymer	-0.0407	0.2445	4	35	35	1	2020
+554	guar gum polymer gel	-0.0404	0.2446	4	35	35	1	2020
+555	guarantee consistent energy conversion	0.0877	-0.209	22	61	61	1	2024
+556	gum acacia biopolymer	-1.0746	0.2492	20	39	39	1	2022
+557	h benzodimidazol	0.5892	0.7123	12	74	74	1	2023
+558	h benzodimidazole	0.5925	0.7131	12	74	74	1	2023
+559	h benzodimidazole ligand	0.5888	0.7141	12	74	74	1	2023
+560	halloysite filler	-0.0651	-0.1509	21	56	56	1	2015
+561	harmful environmental impact	-0.0979	-0.9907	8	45	45	1	2020
+562	heating	-0.4148	1.358	16	44	44	1	2014
+563	hec	0.5314	-0.0842	10	107	110	2	2021
+564	hec gel electrolyte	0.853	0.0919	10	57	57	1	2021
+565	heteroatom	0.8519	0.0898	10	57	57	1	2021
+566	high charge transfer resistance	-0.065	-0.1501	21	56	56	1	2015
+567	high chemical capacitance	0.6094	0.2477	26	51	51	1	2022
+568	high conductivity	0.3389	0.07	7	174	192	3	2019
+569	high degree	-0.0646	-0.1498	21	56	56	1	2015
+570	high efficiency	-0.1444	-0.7999	8	36	36	1	2023
+571	high ionic conductivity	-0.2257	0.3435	4	68	71	2	2022.5
+572	high mechanical strength nanocomposite ionogel	0.1032	-0.4058	7	72	72	1	2014
+573	high molar mass	0.1312	0.6462	9	39	39	1	2014
+574	high open circuit voltage	-0.0949	-0.7439	23	40	40	1	2022
+575	high polydispersity index	0.0476	0.5148	4	36	36	1	2022
+576	high pressure	0.0032	0.8173	9	27	27	1	2014
+577	high resolution field emission scanning electron microscopy	-0.1448	-0.7998	8	36	36	1	2023
+578	high specific capacitance	-0.5591	0.1295	2	35	35	1	2023
+579	high specific capacitance value	-0.5153	-0.131	2	34	34	1	2022
+580	high stability	0.354	0.4235	13	69	69	1	2021
+581	high thermal stability	2.7014	-0.4819	11	52	52	1	2018
+582	higher charge relaxation time	0.7691	0.6973	6	83	83	1	2022
+583	higher chemical capacitance	0.5713	0.5655	6	147	152	2	2021.5
+584	higher efficiency	0.7731	0.6938	6	83	83	1	2022
+585	higher mobility	-0.1501	0.2199	4	38	38	1	2017
+586	higher power conversion efficiency	0.3531	0.4248	13	69	69	1	2021
+587	higher redox potential	0.7705	0.6957	6	83	83	1	2022
+588	higher t2 relaxation time	-0.4147	1.3585	16	44	44	1	2014
+589	higher temperature	0.1303	0.6469	9	39	39	1	2014
+590	highest conducting electrolyte	-0.5208	-0.5555	1	37	37	1	2022
+591	highest conductivity	-0.312	-0.0856	18	81	85	2	2016
+592	highest conversion efficiency	-0.5153	-0.3081	15	41	41	1	2016
+593	highest efficiency	-0.3687	-0.3904	1	64	66	2	2020.5
+594	highest ionic conductivity	-0.3628	-0.4355	1	105	120	3	2021.6667
+595	highest relative number	-0.5205	-0.5554	1	37	37	1	2022
+596	highest room temperature ionic conductivity	-0.2703	-0.3697	5	121	129	3	2018.3333
+597	highest value	-0.0449	-0.375	5	42	42	1	2021
+598	homogeneous gel	0.1483	-0.2934	5	53	53	1	2021
+599	host	-0.3828	-0.0597	2	57	57	1	2023
+600	host matrix	0.7699	0.6985	6	83	83	1	2022
+601	host polymer	-0.5701	-0.3925	1	41	41	1	2022
+602	huge energy demand	-0.0982	-0.9909	8	45	45	1	2020
+603	hybrid biopolymer electrolyte	-0.5696	-0.3932	1	41	41	1	2022
+604	hybrid biopolymer system	-0.569	-0.3928	1	41	41	1	2022
+605	hybrid carboxymethyl kappa carrageenan carboxymethyl cellulose	-0.5212	-0.5559	1	37	37	1	2022
+606	hybrid filler	-0.3955	-0.338	15	46	46	1	2024
+607	hydrophilicity	-0.0446	-0.3744	5	42	42	1	2021
+608	hydrophobic starch derivative	-0.0444	-0.3743	5	42	42	1	2021
+609	hydroxyethyl cellulose	0.5314	-0.0841	10	107	110	2	2021
+610	hydroxyl group	0.047	0.5143	4	36	36	1	2022
+611	i anion	-0.3561	0.0485	25	44	44	1	2021
+612	i i3incorporated electrolyte	0.3535	0.4262	13	69	69	1	2021
+613	i2 pt	-0.6063	-0.3455	1	62	62	1	2015
+614	i3 ion	0.6109	0.2479	26	51	51	1	2022
+615	iii	-0.0653	-0.1519	21	56	56	1	2015
+616	il doped biopolymer electrolyte film	-0.5593	0.1301	2	35	35	1	2023
+617	il gel electrolyte	-0.4186	-0.0506	18	37	37	1	2017
+618	il mixed biopolymer electrolyte	-0.5586	0.1303	2	35	35	1	2023
+619	ilbpe	-0.3838	-0.0616	2	57	57	1	2023
+620	impact	0.4478	-0.12	10	99	99	2	2021
+621	impedance	-0.7965	0.2339	3	27	27	1	2018
+622	impedance spectroscopy	-0.4989	-0.0295	3	118	148	4	2017
+623	impedance study	-0.7878	-0.1152	1	130	142	3	2019.6667
+624	improved adhesiveness	0.1484	-0.2944	5	53	53	1	2021
+625	improved photoconversion efficiency	0.8514	0.092	10	57	57	1	2021
+626	inclusion	-0.3946	-0.3386	15	46	46	1	2024
+627	incorporated glucosyl carboxonium ion	-0.797	0.234	3	27	27	1	2018
+628	incorporation	-0.0553	-0.2624	21	94	98	2	2018
+629	increase	-0.439	-0.2847	1	156	193	4	2017.5
+630	increased concentration	-0.7971	0.2336	3	27	27	1	2018
+631	increment	-0.6065	-0.3465	1	62	62	1	2015
+632	indigenous liquid electrolyte	0.326	-0.1207	24	46	46	1	2013
+633	indium tin oxide	-0.1514	-0.3867	5	25	25	1	2019
+634	industrial application	0.1493	-0.2937	5	53	53	1	2021
+635	influence	0.1971	-0.0623	19	135	138	3	2015
+636	infrared spectroscopy	-0.3393	0.1752	3	57	71	2	2014
+637	infusion	0.1483	-0.2924	5	53	53	1	2021
+638	initial conversion efficiency	-0.0947	-0.7446	23	40	40	1	2022
+639	innovative biopolymer composite electrolyte	0.3262	-0.1205	24	46	46	1	2013
+640	inorganic	-0.0979	-0.9913	8	45	45	1	2020
+641	inorganic additive	0.6097	0.2476	26	51	51	1	2022
+642	insight	2.6999	-0.4826	11	52	52	1	2018
+643	integration	0.3543	0.4261	13	69	69	1	2021
+644	intensive correlation	0.7738	0.6946	6	83	83	1	2022
+645	interact	0.0466	0.5145	4	36	36	1	2022
+646	interaction	-0.1323	-0.0857	13	170	188	4	2016.25
+647	interaction behavior	-0.12	0.1271	18	44	44	1	2016
+648	interesting choice	0.4567	-0.6911	19	43	43	1	2016
+649	interface engineering	2.7013	-0.4816	11	52	52	1	2018
+650	interfacial resistance	0.1483	-0.294	5	53	53	1	2021
+651	interpretation	-0.4147	1.359	16	44	44	1	2014
+652	intriguing approach	-0.3788	0.6399	28	21	21	1	2015
+653	intriguing photovoltaic chemometric approach	0.3255	-0.12	24	46	46	1	2013
+654	intrinsic adhesive property	0.1488	-0.2944	5	53	53	1	2021
+655	inventive organic additive	0.8514	0.0924	10	57	57	1	2021
+656	inverted opv cell	0.4559	-0.6905	19	43	43	1	2016
+657	inverted organic solar cell	0.4557	-0.692	19	43	43	1	2016
+658	iodide ion	-0.0023	0.2128	4	90	92	2	2018.5
+659	iodide polymer electrolyte matrix	-0.2253	-0.1743	2	32	32	1	2010
+660	iodide salt	-0.569	-0.393	1	41	41	1	2022
+661	iodine	-0.2007	0.119	18	124	139	3	2016.3333
+662	iodine doped cellulose acetate propionate	-0.3968	-0.6009	17	51	51	1	2020
+663	iodine gel electrolytes	0.3551	0.4252	13	69	69	1	2021
+664	iodine triiodide	0.6099	0.249	26	51	51	1	2022
+665	ion	0.8529	0.0911	10	57	57	1	2021
+666	ion density	-0.7968	0.2337	3	27	27	1	2018
+667	ion transport	-0.5258	0.2414	3	46	46	1	2016
+668	ionic conductivity	-0.2161	0.142	3	535	766	17	2017.3529
+669	ionic conductivity enhancement	-0.3391	0.1753	3	57	71	2	2014
+670	ionic conductivity value	-0.3824	-0.061	2	57	57	1	2023
+671	ionic liquid	-0.2036	-0.1187	2	242	303	7	2018.2857
+672	ionic liquid aid	0.1477	-0.2941	5	53	53	1	2021
+673	ionic liquid doped biopolymer electrolyte	-0.3842	-0.061	2	57	57	1	2023
+674	ionic liquid incorporated biopolymer electrolyte film	-0.5585	0.1295	2	35	35	1	2023
+675	ionic liquid redox electrolyte	-0.1815	0.1725	4	20	20	1	2015
+676	ionic liquidbiopolymer electrolyte	-0.5155	-0.1308	2	34	34	1	2022
+677	ionic transfer	0.0856	-0.2098	22	61	61	1	2024
+678	ionic transference number measurement	-0.608	-0.3464	1	62	62	1	2015
+679	ionic transport parameter	-0.5262	0.2418	3	46	46	1	2016
+680	ionogel	0.1031	-0.4049	7	72	72	1	2014
+681	iron	-0.0647	-0.1505	21	56	56	1	2015
+682	irradiation intensity	0.325	-0.1213	24	46	46	1	2013
+683	ito	-0.1515	-0.3868	5	25	25	1	2019
+684	j v analysis	-0.3829	-0.0616	2	57	57	1	2023
+685	jsc	-0.023	-0.0098	18	332	412	9	2018.7778
+686	jv characteristic	-0.5592	0.1295	2	35	35	1	2023
+687	kappa carrageenan	-0.6077	-0.3467	1	62	62	1	2015
+688	key technical challenge	-0.0979	-0.9922	8	45	45	1	2020
+689	ki concentration	-0.5268	0.2415	3	46	46	1	2016
+690	ki incorporated glucosyl carboxonium ion	-0.7972	0.2337	3	27	27	1	2018
+691	ki incorporated glucosyl carboxonium ion crust	-0.7971	0.234	3	27	27	1	2018
+692	ki solution	0.0856	-0.2108	22	61	61	1	2024
+693	kinetic	0.13	0.6461	9	39	39	1	2014
+694	kinetic rate constant	0.131	0.6467	9	39	39	1	2014
+695	l lactide	0.0036	0.8177	9	27	27	1	2014
+696	lab scale	0.3247	-0.1209	24	46	46	1	2013
+697	laboratory	-0.4193	-0.0509	18	37	37	1	2017
+698	larger charge	0.3536	0.4238	13	69	69	1	2021
+699	laser	-0.3965	-0.6007	17	51	51	1	2020
+700	latest work	-0.4192	-0.0512	18	37	37	1	2017
+701	lbg	0.6104	0.249	26	51	51	1	2022
+702	lbg biopolymer gel matrix	0.6106	0.2477	26	51	51	1	2022
+703	leakage	-0.1023	0.0153	21	90	94	2	2016
+704	lge1	0.6098	0.2495	26	51	51	1	2022
+705	lge2	0.6101	0.2485	26	51	51	1	2022
+706	lhe	2.7009	-0.482	11	52	52	1	2018
+707	lifetime increase	-1.494	-0.0753	14	51	51	1	2022
+708	ligand	0.772	0.6934	6	83	83	1	2022
+709	light	2.7017	-0.4818	11	52	52	1	2018
+710	light absorption	-1.0746	0.2486	20	39	39	1	2022
+711	light absorption property	2.701	-0.4808	11	52	52	1	2018
+712	light condition	0.6104	0.2495	26	51	51	1	2022
+713	light energy	-0.0976	-0.9915	8	45	45	1	2020
+714	light harvesting efficiency	2.7002	-0.4822	11	52	52	1	2018
+715	light illumination	0.8518	0.0912	10	57	57	1	2021
+716	light intensity	-0.8083	-0.3102	1	187	232	5	2019.4
+717	light weight	0.4564	-0.691	19	43	43	1	2016
+718	lii	-0.0449	-0.3737	5	42	42	1	2021
+719	lii i2	-0.0406	0.2448	4	35	35	1	2020
+720	limited temperature	0.0037	0.8173	9	27	27	1	2014
+721	limonene	0.5901	0.7134	12	74	74	1	2023
+722	linear sweep voltammetry	-0.5521	-0.359	1	116	133	3	2019.6667
+723	lipid proton	-0.4149	1.3592	16	44	44	1	2014
+724	liquid dye sensitized solar cell	-0.1505	0.2203	4	38	38	1	2017
+725	liquid electrolyte	0.0104	0.4025	4	68	71	2	2021
+726	liquid electrolyte show	-0.0409	0.2447	4	35	35	1	2020
+727	liquid state electrolyte	-0.0976	-0.9919	8	45	45	1	2020
+728	lithium iodide	-0.2781	-0.294	1	146	173	4	2019
+729	lithium iodide concentration	-0.5153	-0.3078	15	41	41	1	2016
+730	locust bean	0.7726	0.6985	6	83	83	1	2022
+731	locust bean gum	0.7008	0.4977	6	126	134	2	2022
+732	long term stability	0.0476	0.5146	4	36	36	1	2022
+733	lot	-0.5203	-0.5557	1	37	37	1	2022
+734	low cost fabrication	0.5563	0.0446	10	102	106	2	2019
+735	low efficiency	-0.0664	-0.1507	21	56	56	1	2015
+736	low frequency electrochemical impedance spectroscopy	-0.5588	0.1298	2	35	35	1	2023
+737	low growth rate	0.0036	0.8172	9	27	27	1	2014
+738	low irradiation condition	-1.4936	-0.0737	14	51	51	1	2022
+739	low manufacturing cost	-0.3984	-0.6001	17	51	51	1	2020
+740	low photo conversion efficiency	0.3564	0.4237	13	69	69	1	2021
+741	low production cost	-0.1195	-0.902	8	76	81	2	2021.5
+742	low roughness	0.4554	-0.6914	19	43	43	1	2016
+743	low viscosity ionic liquid	-0.401	-0.0557	2	88	94	2	2020
+744	low volatilization	-0.0969	-0.9912	8	45	45	1	2020
+745	lower charge transfer resistance	0.4738	0.3426	13	109	120	2	2021.5
+746	lower cost	-1.4935	-0.0748	14	51	51	1	2022
+747	lower viscosity	-0.1503	0.2205	4	38	38	1	2017
+748	lowest salt concentration electrolyte film	-0.5207	-0.5553	1	37	37	1	2022
+749	lsv	-0.515	-0.1308	2	34	34	1	2022
+750	ma cm	-0.1197	0.1266	18	44	44	1	2016
+751	ma cm2	-0.1835	-0.1794	23	183	210	5	2019.2
+752	main type	0.4552	-0.6914	19	43	43	1	2016
+753	majority	-0.0975	-0.9911	8	45	45	1	2020
+754	material property	-0.6067	-0.3458	1	62	62	1	2015
+755	matrix	-0.526	0.2422	3	46	46	1	2016
+756	maximum	-0.6858	0.2361	3	66	73	2	2017
+757	maximum conductivity	-0.3141	0.2107	3	38	38	1	2015
+758	maximum conductivity value	-0.5153	-0.1308	2	34	34	1	2022
+759	maximum electrical conductivity film	-0.3769	0.1237	3	33	33	1	2013
+760	maximum il doped mc	-0.5151	-0.1315	2	34	34	1	2022
+761	maximum ionic conductivity	-0.5151	-0.1311	2	34	34	1	2022
+762	maximum ionic conductivity electrolyte	-0.3755	0.1946	3	27	27	1	2014
+763	maximum pce	0.7703	0.6939	6	83	83	1	2022
+764	maximum power conversion efficiency	-0.0409	0.2449	4	35	35	1	2020
+765	mc polymer	-0.5156	-0.1311	2	34	34	1	2022
+766	mean	0.3262	-0.121	24	46	46	1	2013
+767	meaningful transfer	2.7016	-0.4821	11	52	52	1	2018
+768	mechanism	-0.4524	0.9601	16	89	90	2	2015
+769	medium	0.5892	0.7136	12	74	74	1	2023
+770	membrane	-0.27	-0.5644	23	79	81	2	2019
+771	memory effect	0.1311	0.6465	9	39	39	1	2014
+772	methyl	0.5905	0.444	10	217	249	4	2021.5
+773	methyl cellulose	-0.5149	-0.131	2	34	34	1	2022
+774	methyl group	0.7721	0.6949	6	83	83	1	2022
+775	methyl imidazolium thiocyanate incorporated biopolymer system	-0.5585	0.1302	2	35	35	1	2023
+776	methyl sulfanylmethylene	-0.5692	-0.3926	1	41	41	1	2022
+777	methylimidazolium chloride	0.1027	-0.406	7	72	72	1	2014
+778	methylimidazolium iodide	0.0099	-0.3363	5	73	78	2	2020
+779	methylimidazolium thiocyanate	-0.3153	-0.1096	2	76	89	2	2016.5
+780	methylimidazolium tricyanomethanide	-0.5156	-0.1313	2	34	34	1	2022
+781	mhz	-0.5158	-0.3086	15	41	41	1	2016
+782	microwave technique	-0.3983	-0.5995	17	51	51	1	2020
+783	milestone	-0.379	0.6399	28	21	21	1	2015
+784	mixture	0.3256	-0.1213	24	46	46	1	2013
+785	mn3o4	0.6107	0.2486	26	51	51	1	2022
+786	mn3o4cus	0.6104	0.2474	26	51	51	1	2022
+787	mn3o4cus additive	0.6101	0.2475	26	51	51	1	2022
+788	mn3o4cus nanocomposite	0.6092	0.2484	26	51	51	1	2022
+789	mobility	-0.4843	0.0101	3	150	170	4	2016.25
+790	modified titanium dioxide photoanode	0.0873	-0.2088	22	61	61	1	2024
+791	modulus study	-0.7966	0.2338	3	27	27	1	2018
+792	molar mass	0.1306	0.6462	9	39	39	1	2014
+793	molar mass mn	0.1302	0.646	9	39	39	1	2014
+794	molar ratio	0.1304	0.6458	9	39	39	1	2014
+795	molecular change	-0.4151	1.359	16	44	44	1	2014
+796	molecular mobility	-0.4137	1.3582	16	44	44	1	2014
+797	molecular orbital energy level	0.5907	0.7149	12	74	74	1	2023
+798	molecularly functionalized caf1 biopolymer	2.7012	-0.4828	11	52	52	1	2018
+799	morphology	0.0104	-0.0768	23	199	218	5	2019
+800	mpa	0.0035	0.8173	9	27	27	1	2014
+801	mpa crystallize	0.0033	0.8173	9	27	27	1	2014
+802	mpimb	0.5892	0.7144	12	74	74	1	2023
+803	mpp	0.7734	0.6942	6	83	83	1	2022
+804	mtdsc	0.1305	0.6466	9	39	39	1	2014
+805	mw cm	-0.521	-0.3222	1	120	136	3	2018
+806	mw cm2	0.3299	0.2674	10	204	217	4	2021.75
+807	mwcm	-0.5151	-0.3078	15	41	41	1	2016
+808	n phenylaniline	0.8533	0.0912	10	57	57	1	2021
+809	n phthaloylchitosan	-0.1204	0.1258	18	44	44	1	2016
+810	n3 dye	-0.5258	0.2418	3	46	46	1	2016
+811	na transference number determination	-0.3567	0.0478	25	44	44	1	2021
+812	nai	-0.3571	0.0491	25	44	44	1	2021
+813	nai salt	-0.3559	0.0482	25	44	44	1	2021
+814	nano chlorophyll dye	-1.4945	-0.0744	14	51	51	1	2022
+815	nano chlorophyll sensitiser	-1.4946	-0.0749	14	51	51	1	2022
+816	nano particles size modification	-1.4941	-0.0759	14	51	51	1	2022
+817	nano sized titanium dioxide	-0.0656	-0.1513	21	56	56	1	2015
+818	nanocellulose material	0.4561	-0.6918	19	43	43	1	2016
+819	nanocellulose substrate	0.4555	-0.6917	19	43	43	1	2016
+820	nanocellulose substrates cnc	0.4559	-0.692	19	43	43	1	2016
+821	nanocomposite	0.0942	-0.3169	7	131	133	2	2019
+822	nanocomposite additive	0.6096	0.2481	26	51	51	1	2022
+823	nanocomposite ionogel	0.1001	-0.4056	7	72	72	1	2014
+824	nanocrystalline cellulose	0.4553	-0.6912	19	43	43	1	2016
+825	nanofibrillated cellulose	0.4555	-0.692	19	43	43	1	2016
+826	nanofibrous membrane	-0.0955	-0.7447	23	40	40	1	2022
+827	nanofiller	-0.066	-0.1516	21	56	56	1	2015
+828	nanomaterial filler	-0.0658	-0.1497	21	56	56	1	2015
+829	nanoparticle	-0.1235	-0.3762	7	116	118	2	2019
+830	natural bb dye	0.3543	0.4232	13	69	69	1	2021
+831	natural biopolymer	-0.5203	-0.5555	1	37	37	1	2022
+832	natural dye	0.3538	0.4265	13	69	69	1	2021
+833	natural element	-1.4935	-0.0744	14	51	51	1	2022
+834	natural photosensitizer	-0.3963	-0.5999	17	51	51	1	2020
+835	natural pigment anthocyanin	-1.0744	0.248	20	39	39	1	2022
+836	natural polymer	0.149	-0.2925	5	53	53	1	2021
+837	natural polysaccharide	-0.1815	0.1723	4	20	20	1	2015
+838	nature	-0.5206	-0.5557	1	37	37	1	2022
+839	negative shift	0.7734	0.6978	6	83	83	1	2022
+840	new	-0.3757	0.1943	3	27	27	1	2014
+841	new aqueous gel electrolyte material	0.6101	0.2495	26	51	51	1	2022
+842	new biodegradable polymer electrolyte	-0.3755	0.1944	3	27	27	1	2014
+843	new biopolymer electrolyte	-0.5268	-0.182	1	90	95	2	2014
+844	new biopolymer electrolyte membrane	-0.2251	-0.1744	2	32	32	1	2010
+845	new dssc structure	0.0875	-0.211	22	61	61	1	2024
+846	new eco friendly dye sensitized solar cell	0.3532	0.4258	13	69	69	1	2021
+847	new natural sensitizer	0.355	0.4241	13	69	69	1	2021
+848	new polymer electrolyte	-0.5208	-0.5562	1	37	37	1	2022
+849	new source	-0.0643	-0.15	21	56	56	1	2015
+850	new starch	0.059	-0.0268	27	49	49	1	2017
+851	nfc	0.4554	-0.6907	19	43	43	1	2016
+852	nfc substrate	0.4564	-0.6919	19	43	43	1	2016
+853	nh position	0.7711	0.695	6	83	83	1	2022
+854	nh4i biopolymer electrolyte	-0.1514	-0.3864	5	25	25	1	2019
+855	nh4i salt	-0.1512	-0.3868	5	25	25	1	2019
+856	nitrogen nucleophile	-0.1445	-0.8002	8	36	36	1	2023
+857	nn dimethyl n	-0.5697	-0.3926	1	41	41	1	2022
+858	nn diphenylaniline	0.8508	0.0918	10	57	57	1	2021
+859	nonrenewable energy source	-0.0979	-0.9919	8	45	45	1	2020
+860	nontoxicity	-0.521	-0.556	1	37	37	1	2022
+861	novel attempt	-0.0449	-0.3747	5	42	42	1	2021
+862	novel biopolymer gel electrolyte	-0.3773	0.1235	3	33	33	1	2013
+863	novel caf1 biopolymer	2.7008	-0.4826	11	52	52	1	2018
+864	novel chitosan biopolymer	-0.1452	-0.8	8	36	36	1	2023
+865	novel cobalt	0.7705	0.6974	6	83	83	1	2022
+866	novel electrolyte material	0.611	0.2486	26	51	51	1	2022
+867	novel inorganic additive	0.6093	0.249	26	51	51	1	2022
+868	number	-0.5638	-0.3285	1	93	103	2	2015.5
+869	oat bread	-0.4146	1.358	16	44	44	1	2014
+870	oat flour bread	-0.4137	1.3584	16	44	44	1	2014
+871	oat flour water sample	-0.4139	1.3582	16	44	44	1	2014
+872	occurrence	-0.5701	-0.3931	1	41	41	1	2022
+873	ongoing extensive research area	-1.0741	0.2484	20	39	39	1	2022
+874	open circuit voltage	-0.2168	0.0295	25	222	275	6	2018.6667
+875	optical microscopy affirm	-0.472	0.2246	3	59	73	2	2015
+876	optical property	-1.0748	0.2482	20	39	39	1	2022
+877	optical study	-0.5584	0.13	2	35	35	1	2023
+878	optimal value	0.0873	-0.2102	22	61	61	1	2024
+879	optimization	-0.0663	-0.1514	21	56	56	1	2015
+880	optimized efficiency	0.0507	-0.3338	5	89	95	2	2021
+881	opv	0.4561	-0.6913	19	43	43	1	2016
+882	opv performance	0.4561	-0.6905	19	43	43	1	2016
+883	opvs	0.4567	-0.6908	19	43	43	1	2016
+884	orange peel waste	0.5909	0.7131	12	74	74	1	2023
+885	order	-0.5839	-0.1059	2	94	97	2	2019
+886	organic additive	0.8507	0.0915	10	57	57	1	2021
+887	organic additive tris	0.8519	0.0902	10	57	57	1	2021
+888	organic compound	0.7707	0.6965	6	83	83	1	2022
+889	organic dptcy sensitizer	0.7741	0.6963	6	83	83	1	2022
+890	organic photovoltaic	0.4558	-0.6913	19	43	43	1	2016
+891	organic photovoltaic property	0.8512	0.0916	10	57	57	1	2021
+892	organic solvent	0.2565	0.2347	26	84	89	2	2019.5
+893	organosoluble	-0.0445	-0.3748	5	42	42	1	2021
+894	organosoluble n phthaloylchitosan	-0.1209	0.126	18	44	44	1	2016
+895	outdoor application	-1.4943	-0.0748	14	51	51	1	2022
+896	output performance	2.701	-0.4829	11	52	52	1	2018
+897	outstanding durability	0.3247	-0.1206	24	46	46	1	2013
+898	overall conversion efficiency	-0.0664	-0.1503	21	56	56	1	2015
+899	overall power conversion efficiency	-0.3825	-0.0602	2	57	57	1	2023
+900	overview	-0.0968	-0.9914	8	45	45	1	2020
+901	oxidation	0.086	-0.2104	22	61	61	1	2024
+902	oxide	-0.0656	-0.15	21	56	56	1	2015
+903	oxidized dye molecule	-0.3566	0.0492	25	44	44	1	2021
+904	pani go	0.088	-0.2099	22	61	61	1	2024
+905	paper	-0.2747	0.0176	2	151	181	4	2018
+906	para position	0.7741	0.6957	6	83	83	1	2022
+907	paradigm	-0.3565	0.0489	25	44	44	1	2021
+908	pattern	0.0867	-0.2097	22	61	61	1	2024
+909	pbimb	0.5895	0.7129	12	74	74	1	2023
+910	pbs	0.1305	0.6469	9	39	39	1	2014
+911	pce	0.2581	0.3305	4	270	311	6	2021.1667
+912	pce report	0.3567	0.4247	13	69	69	1	2021
+913	pce result	0.6015	0.4979	12	116	125	2	2022.5
+914	pce value	0.4556	-0.691	19	43	43	1	2016
+915	pcl	0.0476	0.5142	4	36	36	1	2022
+916	pdi	0.0469	0.5148	4	36	36	1	2022
+917	peak	-0.3026	0.88	16	86	88	2	2015
+918	pectin	0.6844	0.704	6	141	157	2	2022.5
+919	pectin polymer	0.772	0.698	6	83	83	1	2022
+920	peo	0.3261	-0.1202	24	46	46	1	2013
+921	peocmc ratio	0.3251	-0.1209	24	46	46	1	2013
+922	performance	0.1645	0.0636	2	412	509	10	2018.2
+923	performance degradation	2.7009	-0.4814	11	52	52	1	2018
+924	perspective	0.5562	0.0448	10	102	106	2	2019
+925	perylene	-0.1451	-0.7998	8	36	36	1	2023
+926	perylene dye	-0.1446	-0.7995	8	36	36	1	2023
+927	pge	0.0473	0.5141	4	36	36	1	2022
+928	phase	-0.3983	-0.6004	17	51	51	1	2020
+929	phase diagram	0.0035	0.8171	9	27	27	1	2014
+930	phch	-0.121	0.1267	18	44	44	1	2016
+931	phchec dmftpaii2	-0.1205	0.1266	18	44	44	1	2016
+932	phenanthro910 dimidazol	0.8527	0.0922	10	57	57	1	2021
+933	phenyl	0.8136	0.3926	10	135	140	2	2021.5
+934	photo electrochemical study	-0.4189	-0.0513	18	37	37	1	2017
+935	photoanode	0.087	-0.2093	22	61	61	1	2024
+936	photocathode	-0.2483	-0.2466	17	84	86	2	2020
+937	photoconversion efficiency	0.0593	-0.0265	27	49	49	1	2017
+938	photoelectrochemical characterization	-0.2104	0.094	2	87	92	2	2021.5
+939	photophysical property	0.5911	0.7111	12	74	74	1	2023
+940	photovoltage	0.7698	0.6971	6	83	83	1	2022
+941	photovoltaic chemometric approach	0.3254	-0.1212	24	46	46	1	2013
+942	photovoltaic device	0.3254	-0.1206	24	46	46	1	2013
+943	photovoltaic measurement	0.0583	-0.0269	27	49	49	1	2017
+944	photovoltaic parameter	-0.9781	0.0374	14	87	89	2	2019.5
+945	photovoltaic performance	0.2932	0.3828	6	138	140	2	2022.5
+946	photovoltaic property	0.8522	0.0899	10	57	57	1	2021
+947	photovoltaic solar cell application	-0.1444	-0.7995	8	36	36	1	2023
+948	phst	0.149	-0.293	5	53	53	1	2021
+949	phst hec	0.1487	-0.2939	5	53	53	1	2021
+950	phthalic anhydride	-0.1198	0.126	18	44	44	1	2016
+951	phthalimido	-0.1206	0.1258	18	44	44	1	2016
+952	phthaloyl agarose	-0.0957	-0.7442	23	40	40	1	2022
+953	phthaloyl starch	0.1478	-0.2932	5	53	53	1	2021
+954	phthaloylation	-0.0448	-0.374	5	42	42	1	2021
+955	physical property	-0.0719	-0.575	23	78	82	2	2021.5
+956	physicochemical property	-0.0985	-0.9916	8	45	45	1	2020
+957	physiochemical property	0.102	-0.4077	7	72	72	1	2014
+958	phytagel gellan gum	-0.3132	0.2106	3	38	38	1	2015
+959	pida	0.8518	0.0925	10	57	57	1	2021
+960	pil	-0.0956	-0.7444	23	40	40	1	2022
+961	plant biopolymer gum acacia	-1.0742	0.2493	20	39	39	1	2022
+962	plant nanocellulose	-1.493	-0.0738	14	51	51	1	2022
+963	plant nanocellulose electrolyte	-1.494	-0.0739	14	51	51	1	2022
+964	plasticization	-0.0447	-0.3749	5	42	42	1	2021
+965	plasticized polymer electrolyte	-0.3968	-0.6006	17	51	51	1	2020
+966	plla	0.0035	0.8177	9	27	27	1	2014
+967	plla crystal form	0.0037	0.8173	9	27	27	1	2014
+968	plla sample	0.0037	0.8175	9	27	27	1	2014
+969	pnc	-1.4945	-0.0751	14	51	51	1	2022
+970	pnc content	-1.4944	-0.0754	14	51	51	1	2022
+971	pnc nano chlorophyll content	-1.4939	-0.076	14	51	51	1	2022
+972	polarized microscopy	-0.3136	0.211	3	38	38	1	2015
+973	polarized optical microscopy	-0.4428	-0.0924	2	76	91	2	2022.5
+974	poly	0.0253	0.3182	9	138	142	4	2018
+975	poly ethylene oxide	-0.1817	0.1723	4	20	20	1	2015
+976	polyaniline graphene oxide	0.0884	-0.2101	22	61	61	1	2024
+977	polycondensation kinetic	0.1305	0.6464	9	39	39	1	2014
+978	polyethylene glycol	-0.0408	0.2442	4	35	35	1	2020
+979	polyethylene oxide	0.3247	-0.1203	24	46	46	1	2013
+980	polymer	-0.0187	0.1086	9	143	147	3	2014
+981	polymer base	-0.0446	-0.3738	5	42	42	1	2021
+982	polymer blend	-0.5156	-0.3089	15	41	41	1	2016
+983	polymer electrolyte	-0.145	-0.2385	5	190	213	5	2018.4
+984	polymer electrolyte film	-0.1515	-0.3866	5	25	25	1	2019
+985	polymer electrolyte films electrical conductivity	-0.3957	-0.3385	15	46	46	1	2024
+986	polymer electrolyte layer	-0.3946	-0.3389	15	46	46	1	2024
+987	polymer electrolyte system	-0.0654	-0.1506	21	56	56	1	2015
+988	polymer gel electrolyte	0.3209	0.288	4	121	128	3	2021
+989	polymer host	0.037	0.2168	13	122	126	2	2022
+990	polymer matrix	-0.3949	-0.3387	15	46	46	1	2024
+991	polymer plasticizer salt	-0.1197	0.1264	18	44	44	1	2016
+992	polymer polymer interaction	-0.0652	-0.1495	21	56	56	1	2015
+993	polymeric form	2.7012	-0.4824	11	52	52	1	2018
+994	polymeric ionic liquid	-0.0944	-0.7439	23	40	40	1	2022
+995	polysaccharide polymer	0.7697	0.698	6	83	83	1	2022
+996	pom	-0.3987	0.0125	2	105	129	3	2020
+997	poor sensitizing ability	2.7003	-0.4807	11	52	52	1	2018
+998	porosity	-0.0957	-0.744	23	40	40	1	2022
+999	pot acylation	-0.145	-0.8003	8	36	36	1	2023
+1000	potassium iodide	-0.2933	0.059	3	171	242	6	2016.5
+1001	potato starch	0.0525	-0.2543	5	130	144	3	2019.6667
+1002	potential	-0.3092	-0.2106	25	109	115	3	2021.3333
+1003	potential application	-0.3679	-0.5798	8	97	98	2	2019
+1004	power conversion efficiency	0.1971	-0.0755	12	161	171	3	2023.3333
+1005	power conversion efficiency study	-0.7967	0.2336	3	27	27	1	2018
+1006	power density	-0.3838	-0.061	2	57	57	1	2023
+1007	ppm	-0.121	0.1263	18	44	44	1	2016
+1008	practical application	2.6993	-0.4815	11	52	52	1	2018
+1009	precursor	0.1005	-0.4066	7	72	72	1	2014
+1010	preparation	-0.0328	0.395	4	71	74	2	2019.5
+1011	preparation method	0.0583	-0.0259	27	49	49	1	2017
+1012	prepared biopolymer electrolyte	-0.3959	-0.3393	15	46	46	1	2024
+1013	prepared biopolymer electrolyte film	-0.3949	-0.3381	15	46	46	1	2024
+1014	prepared chitosan	-0.1517	-0.3867	5	25	25	1	2019
+1015	prepared electrolyte film	-0.5209	-0.5552	1	37	37	1	2022
+1016	prepared natural dye	0.3543	0.4239	13	69	69	1	2021
+1017	prepared pcl	0.0476	0.5143	4	36	36	1	2022
+1018	prepared pge	0.0474	0.5144	4	36	36	1	2022
+1019	prepared pge show	0.0467	0.5149	4	36	36	1	2022
+1020	presence	1.3642	-0.218	11	166	170	3	2021
+1021	present study	-0.3902	-0.2087	15	98	103	2	2023.5
+1022	present work	-1.2839	0.0874	20	88	90	2	2022
+1023	pressure range	0.0032	0.8175	9	27	27	1	2014
+1024	primary filler	-0.3953	-0.3395	15	46	46	1	2024
+1025	principle host	-0.6071	-0.3467	1	62	62	1	2015
+1026	process	-0.3788	0.6396	28	21	21	1	2015
+1027	prolonged irradiation	2.6996	-0.4821	11	52	52	1	2018
+1028	promising candidate	-0.4189	-0.0502	18	37	37	1	2017
+1029	promising chitosan biopolymer	-0.1451	-0.7996	8	36	36	1	2023
+1030	promising electrolyte host	-0.357	0.0485	25	44	44	1	2021
+1031	promising strategy	-0.6054	-0.3468	1	62	62	1	2015
+1032	prop	0.5887	0.712	12	74	74	1	2023
+1033	property	-0.1657	-0.0801	20	223	234	5	2016.4
+1034	proportion	0.102	-0.4061	7	72	72	1	2014
+1035	propylene carbonate	-0.0457	-0.3746	5	42	42	1	2021
+1036	propylimidazolium iodide	-0.041	0.2445	4	35	35	1	2020
+1037	proton distribution	-0.4143	1.3578	16	44	44	1	2014
+1038	pt electrolyte interface	0.1382	0.3367	13	105	107	2	2019
+1039	ptpbi	0.5908	0.7119	12	74	74	1	2023
+1040	ptpbi2	0.7739	0.6968	6	83	83	1	2022
+1041	ptpbicoordinated copper metal complex	0.7739	0.6951	6	83	83	1	2022
+1042	pure gci	-0.797	0.2341	3	27	27	1	2018
+1043	pure glucosyl carboxonium ion crust	-0.7969	0.2341	3	27	27	1	2018
+1044	pure speciman	-1.0748	0.2484	20	39	39	1	2022
+1045	purity	-0.3977	-0.6006	17	51	51	1	2020
+1046	pv parameter	-1.4926	-0.0743	14	51	51	1	2022
+1047	pva	-0.0954	-0.7448	23	40	40	1	2022
+1048	pva pa pil c	-0.0951	-0.7448	23	40	40	1	2022
+1049	pva pa pil c membrane	-0.0944	-0.7444	23	40	40	1	2022
+1050	pyridin	0.6842	0.7045	6	141	157	2	2022.5
+1051	pyrrol	0.8513	0.0901	10	57	57	1	2021
+1052	qss	-0.0956	-0.7438	23	40	40	1	2022
+1053	qsse	0.5916	0.7136	12	74	74	1	2023
+1054	qsse host	0.7695	0.6946	6	83	83	1	2022
+1055	quasi	0.1506	-0.241	24	84	88	2	2017
+1056	quasi fermi level	0.7735	0.6959	6	83	83	1	2022
+1057	quasi fermi level shift	0.8524	0.0919	10	57	57	1	2021
+1058	quasi solid dssc	0.1492	-0.2927	5	53	53	1	2021
+1059	quasi solid dye sensitized solar cell	0.1487	-0.2925	5	53	53	1	2021
+1060	quasi solid electrolyte	-0.0454	-0.3744	5	42	42	1	2021
+1061	radiation	-1.074	0.2488	20	39	39	1	2022
+1062	rapid charge transfer	2.7005	-0.4818	11	52	52	1	2018
+1063	rapid increase	-1.4932	-0.0761	14	51	51	1	2022
+1064	ray diffraction	-0.3138	0.2101	3	38	38	1	2015
+1065	rct	0.5917	0.7144	12	74	74	1	2023
+1066	reaction	-0.12	0.1259	18	44	44	1	2016
+1067	reactive modification	-1.0738	0.2487	20	39	39	1	2022
+1068	reasonable conductivity	-0.4183	-0.0507	18	37	37	1	2017
+1069	recent input	-0.0972	-0.9909	8	45	45	1	2020
+1070	recombination reaction	0.562	0.2466	10	276	313	5	2021.4
+1071	recombination resistance	0.5358	0.5297	6	182	206	3	2020.6667
+1072	record	0.7726	0.6935	6	83	83	1	2022
+1073	red shift	-0.1448	-0.7994	8	36	36	1	2023
+1074	red spectroscopy	-0.395	-0.3392	15	46	46	1	2024
+1075	redox additive lp blend biopolymer pt	0.7721	0.6988	6	83	83	1	2022
+1076	redox couple	0.3986	-0.053	10	150	159	3	2016.3333
+1077	redox electrolyte	-0.1113	0.2085	4	52	55	2	2017.5
+1078	redox mediator	0.3537	0.4257	13	69	69	1	2021
+1079	redox potential occurrence	0.0868	-0.2088	22	61	61	1	2024
+1080	redox shuttle ion	-0.3558	0.0485	25	44	44	1	2021
+1081	redox system	0.7722	0.6968	6	83	83	1	2022
+1082	reduction	-0.3869	0.056	3	141	195	5	2015.2
+1083	reduction process	0.0861	-0.2091	22	61	61	1	2024
+1084	regeneration	-0.1164	-0.1912	7	113	116	2	2017.5
+1085	regeneration behavior	0.5917	0.7108	12	74	74	1	2023
+1086	region	-1.0739	0.2485	20	39	39	1	2022
+1087	regular wheat bread crumb	-0.415	1.3586	16	44	44	1	2014
+1088	relationship	-0.5257	0.242	3	46	46	1	2016
+1089	relative number	-0.5211	-0.5554	1	37	37	1	2022
+1090	remarkable enhancement	-0.2253	-0.1747	2	32	32	1	2010
+1091	remarkable reduction	0.0875	-0.2115	22	61	61	1	2024
+1092	renewable energy	-0.1018	-0.665	8	124	137	3	2019.3333
+1093	renewable energy system	-0.3791	0.6396	28	21	21	1	2015
+1094	replacement	0.3462	-0.1595	19	124	132	3	2018.3333
+1095	report	0.3257	-0.1199	24	46	46	1	2013
+1096	requisite parameter	0.3262	-0.1208	24	46	46	1	2013
+1097	researcher	-0.0129	-0.6361	8	102	106	2	2022
+1098	respect	-0.5153	-0.1314	2	34	34	1	2022
+1099	response	-0.1158	-0.2298	24	104	108	2	2014
+1100	retarding	2.7005	-0.4831	11	52	52	1	2018
+1101	review	-0.0981	-0.9917	8	45	45	1	2020
+1102	rheological analysis	0.1495	-0.2934	5	53	53	1	2021
+1103	rheological property	0.1479	-0.2925	5	53	53	1	2021
+1104	rheology	0.1017	-0.4073	7	72	72	1	2014
+1105	rice flour bread	-0.4153	1.3589	16	44	44	1	2014
+1106	rice flour water model system	-0.4154	1.3587	16	44	44	1	2014
+1107	rigidity	0.1474	-0.2931	5	53	53	1	2021
+1108	ring phenolate al complex	0.0471	0.514	4	36	36	1	2022
+1109	room temperature	-0.2946	0.1513	16	256	282	6	2017.1667
+1110	room temperature conductivity maximum	-0.419	-0.0509	18	37	37	1	2017
+1111	rrec	0.5886	0.7125	12	74	74	1	2023
+1112	s cm	-0.3432	-0.0185	2	297	395	9	2018.5556
+1113	safe energy supply	-0.0974	-0.9908	8	45	45	1	2020
+1114	sago palm	-0.5264	0.2421	3	46	46	1	2016
+1115	salt	-0.2967	-0.0672	15	188	216	5	2016.6
+1116	salt concentration	-0.5465	-0.4702	1	71	78	2	2022
+1117	salt doping	-0.4034	0.1994	3	98	144	4	2014.5
+1118	sample	-0.1281	0.1998	9	113	113	3	2018.6667
+1119	sandwiching metal free organic mk	-0.0402	0.2444	4	35	35	1	2020
+1120	scale	2.7002	-0.483	11	52	52	1	2018
+1121	scanning electron microscope	-0.3972	-0.6003	17	51	51	1	2020
+1122	scientific research	-0.379	0.6396	28	21	21	1	2015
+1123	seaweed	-0.3788	0.6397	28	21	21	1	2015
+1124	secondary filler	-0.3947	-0.3392	15	46	46	1	2024
+1125	selective carboxylation	-0.3789	0.6395	28	21	21	1	2015
+1126	self	0.1303	0.6463	9	39	39	1	2014
+1127	sem	0.1805	0.2549	7	225	252	5	2016.8
+1128	sem image	-0.3947	-0.3383	15	46	46	1	2024
+1129	semi crystalline domain	-0.3572	0.0489	25	44	44	1	2021
+1130	semiconductor	-1.493	-0.0743	14	51	51	1	2022
+1131	sensitiser	-1.4943	-0.0743	14	51	51	1	2022
+1132	sensitizer molecule	2.6999	-0.4829	11	52	52	1	2018
+1133	sensor	0.1014	-0.4065	7	72	72	1	2014
+1134	series	0.3547	0.4267	13	69	69	1	2021
+1135	set	0.2711	0.4491	12	115	118	2	2019.5
+1136	short circuit current density	-0.1455	-0.0174	25	210	242	5	2019.8
+1137	significant crumb moisture loss	-0.4143	1.3593	16	44	44	1	2014
+1138	significant electron loss	2.6994	-0.4813	11	52	52	1	2018
+1139	significant enhancement	-0.5267	0.2419	3	46	46	1	2016
+1140	significant improvement	-0.1496	0.2201	4	38	38	1	2017
+1141	silver oxide	0.1009	-0.4059	7	72	72	1	2014
+1142	simple phthaloylation method	-0.0453	-0.3747	5	42	42	1	2021
+1143	simultaneous dissolution	0.1017	-0.4055	7	72	72	1	2014
+1144	single polymer matrix	0.3545	0.4246	13	69	69	1	2021
+1145	single step	0.103	-0.4067	7	72	72	1	2014
+1146	size	-1.4939	-0.0744	14	51	51	1	2022
+1147	smaller size	-0.1504	0.2208	4	38	38	1	2017
+1148	sodium iodide	-0.5463	-0.4703	1	71	78	2	2022
+1149	sol gel transition	0.1006	-0.4051	7	72	72	1	2014
+1150	solanum melongena	-1.0743	0.2491	20	39	39	1	2022
+1151	solar cell	-0.1952	-0.2535	8	314	365	8	2018.5
+1152	solar cell technology	-0.1442	-0.7997	8	36	36	1	2023
+1153	solar energy	-0.1195	-0.902	8	76	81	2	2021.5
+1154	solar light illumination	0.0472	0.5146	4	36	36	1	2022
+1155	solid biopolymer	-0.5268	0.2412	3	46	46	1	2016
+1156	solid biopolymer electrolyte	-0.26	-0.3452	5	78	83	2	2018.5
+1157	solid biopolymer electrolyte membrane	-0.5262	0.2411	3	46	46	1	2016
+1158	solid device	0.3252	-0.1199	24	46	46	1	2013
+1159	solid dye sensitized solar cell	0.2114	-0.2678	7	118	118	2	2013.5
+1160	solid electrolyte	-0.3775	0.5143	28	46	48	2	2014.5
+1161	solid gel electrolyte	-0.3136	0.2104	3	38	38	1	2015
+1162	solid gel electrolyte synthesis	-0.3138	0.2109	3	38	38	1	2015
+1163	solid gellan gum polymer electrolyte	-0.3141	0.2109	3	38	38	1	2015
+1164	solid polymer electrolyte	-0.4298	0.1308	25	85	90	2	2018.5
+1165	solid polymer electrolyte conductivity	-0.398	-0.6003	17	51	51	1	2020
+1166	solid redox electrolyte	-0.1816	0.1722	4	20	20	1	2015
+1167	solid state	-0.1182	-0.7702	23	74	76	2	2022.5
+1168	solid state dssc	-0.3953	-0.3391	15	46	46	1	2024
+1169	solid state dye sensitised solar cell	-0.3569	0.0478	25	44	44	1	2021
+1170	solid state electrolyte	0.1302	0.3894	25	116	118	2	2022
+1171	solid state photovoltaic device	-0.3561	0.049	25	44	44	1	2021
+1172	solid state polymer electrolyte	-0.0454	-0.3748	5	42	42	1	2021
+1173	solidification	-0.1816	0.1724	4	20	20	1	2015
+1174	solution	0.1021	-0.404	7	72	72	1	2014
+1175	solution caste method	-0.5585	0.1299	2	35	35	1	2023
+1176	solution casting method	-0.5696	-0.3923	1	41	41	1	2022
+1177	solution casting technique	-0.1516	-0.3866	5	25	25	1	2019
+1178	solvent	-0.2937	0.066	4	55	57	2	2016
+1179	solvent evaporation	-0.0645	-0.1516	21	56	56	1	2015
+1180	specific advantage	-0.3963	-0.6002	17	51	51	1	2020
+1181	specific capacitance	-0.384	-0.0598	2	57	57	1	2023
+1182	speciman	-1.0751	0.2489	20	39	39	1	2022
+1183	spectra	-0.3152	-0.0863	1	69	76	2	2021
+1184	spectroscopy	-0.347	-0.2979	1	346	490	12	2017.4167
+1185	spectroscopy analysis highlights interaction	-0.3564	0.0481	25	44	44	1	2021
+1186	spectroscopy measurement	2.6999	-0.4812	11	52	52	1	2018
+1187	spectrum	-1.0747	0.2488	20	39	39	1	2022
+1188	squaraine	-0.065	-0.1515	21	56	56	1	2015
+1189	squaraine dye	-0.0649	-0.1518	21	56	56	1	2015
+1190	stability	-0.4128	-0.2087	14	226	240	4	2018.75
+1191	stable incident photon	0.0468	0.5143	4	36	36	1	2022
+1192	stable power conversion efficiency	-0.3565	0.0478	25	44	44	1	2021
+1193	standard condition	-0.3842	-0.0602	2	57	57	1	2023
+1194	standard illumination test condition	2.6996	-0.4815	11	52	52	1	2018
+1195	starch	0.0525	-0.2543	5	130	144	3	2019.6667
+1196	starch cross	0.0578	-0.0256	27	49	49	1	2017
+1197	starch electrolyte	-0.0457	-0.3743	5	42	42	1	2021
+1198	starch gel polymer electrolyte	0.0583	-0.0265	27	49	49	1	2017
+1199	starch retrogradation	-0.4141	1.3578	16	44	44	1	2014
+1200	storage	-0.415	1.3579	16	44	44	1	2014
+1201	storage field	-0.3559	0.0488	25	44	44	1	2021
+1202	strategic component	0.3255	-0.1216	24	46	46	1	2013
+1203	strength	0.1479	-0.2938	5	53	53	1	2021
+1204	strong hydrogen bonding interaction	0.1024	-0.4074	7	72	72	1	2014
+1205	structural	-0.4189	-0.0505	18	37	37	1	2017
+1206	structure	-0.0315	-0.3847	23	149	156	3	2017.3333
+1207	study	-0.1503	-0.1874	20	490	609	13	2020.4615
+1208	subsequent cooling	-0.4146	1.3577	16	44	44	1	2014
+1209	substantially	0.0469	0.5141	4	36	36	1	2022
+1210	substituent	0.6841	0.704	6	141	157	2	2022.5
+1211	substituent exhibit maximum voc	0.5913	0.7124	12	74	74	1	2023
+1212	substitution	0.773	0.6982	6	83	83	1	2022
+1213	substrate	0.4566	-0.6917	19	43	43	1	2016
+1214	sun	0.5589	0.3065	6	125	129	2	2017.5
+1215	sun condition	-0.5299	0.1521	3	165	240	7	2017.2857
+1216	sun energy	-1.4929	-0.0753	14	51	51	1	2022
+1217	sun illumination	0.3551	0.423	13	69	69	1	2021
+1218	sun irradiation	0.3257	-0.1203	24	46	46	1	2013
+1219	sunlight	-0.3568	0.0489	25	44	44	1	2021
+1220	sunlight conversion efficiency	-1.4925	-0.0745	14	51	51	1	2022
+1221	supercapacitor	-0.3907	-0.3768	17	102	108	2	2021.5
+1222	supercapacitor electrode	-0.3972	-0.6008	17	51	51	1	2020
+1223	supercapacitor electrolyte	-0.3973	-0.599	17	51	51	1	2020
+1224	supercapacitors developed	-0.5588	0.1304	2	35	35	1	2023
+1225	supplementary filler	-0.3953	-0.3386	15	46	46	1	2024
+1226	suppression	0.3398	0.505	6	118	121	2	2018.5
+1227	surface morphology	0.047	0.515	4	36	36	1	2022
+1228	surface state	2.7003	-0.4827	11	52	52	1	2018
+1229	sustainability	-0.0969	-0.9917	8	45	45	1	2020
+1230	sustainable electrolyte component	-0.0444	-0.3745	5	42	42	1	2021
+1231	synergistic effect	-0.3957	-0.3389	15	46	46	1	2024
+1232	synthesis	-0.0611	-0.1875	2	294	359	8	2017.25
+1233	synthesized metal oxide nanocomposites additive	0.6105	0.2481	26	51	51	1	2022
+1234	system	-0.4176	-0.1067	3	247	293	6	2018.3333
+1235	tackiness	0.1474	-0.2935	5	53	53	1	2021
+1236	tannin	-1.074	0.2483	20	39	39	1	2022
+1237	tbp	0.5917	0.7116	12	74	74	1	2023
+1238	tbt	0.1302	0.6466	9	39	39	1	2014
+1239	td 1h nmr	-0.4144	1.3587	16	44	44	1	2014
+1240	td 1h nmr data	-0.415	1.3583	16	44	44	1	2014
+1241	td 1h nmr profile	-0.4141	1.3592	16	44	44	1	2014
+1242	tdpmpa	0.8518	0.0907	10	57	57	1	2021
+1243	technique	-0.111	-0.2629	17	174	189	4	2019.25
+1244	tem	0.3305	-0.1117	7	118	123	2	2018
+1245	temperature	-0.5638	-0.3284	1	93	103	2	2015.5
+1246	temperature dependent conductivity study	-0.5886	-0.3694	1	92	103	2	2018.5
+1247	temperature range	-0.515	-0.3085	15	41	41	1	2016
+1248	tert butylpyrdine	-0.0403	0.2442	4	35	35	1	2020
+1249	tetrabutoxide	0.1301	0.6468	9	39	39	1	2014
+1250	tetracarboxylic anhydride	-0.1448	-0.8	8	36	36	1	2023
+1251	tetrapropylammonium iodide	0.0208	-0.0933	5	92	97	2	2018.5
+1252	texture	-0.4142	1.358	16	44	44	1	2014
+1253	texture analysis	-0.4154	1.3584	16	44	44	1	2014
+1254	tg trend	-0.6074	-0.3455	1	62	62	1	2015
+1255	tga	-0.2039	-0.2301	2	142	163	3	2019.6667
+1256	theoretical hopping model	-0.3769	0.1235	3	33	33	1	2013
+1257	thermal analysis	-0.5701	-0.3928	1	41	41	1	2022
+1258	thermal property	0.0694	0.7284	9	65	66	2	2014
+1259	thermal stability	-0.3838	-0.0603	2	57	57	1	2023
+1260	thermogravimetric analysis	-0.1877	-0.3891	2	173	199	4	2020.5
+1261	third generation solar cell	-0.3791	0.6398	28	21	21	1	2015
+1262	third millennium	-0.379	0.6398	28	21	21	1	2015
+1263	thorough investigation	0.7726	0.6959	6	83	83	1	2022
+1264	time	0.803	-0.1754	11	184	192	4	2018.5
+1265	time domain proton nuclear magnetic resonance	-0.4147	1.3593	16	44	44	1	2014
+1266	tio2	1.0779	0.1635	11	279	321	5	2021.8
+1267	tio2 dye	2.6998	-0.4809	11	52	52	1	2018
+1268	tio2 dye electrolyte interface	0.1554	0.1491	13	122	125	2	2018
+1269	tio2 g	0.0858	-0.2094	22	61	61	1	2024
+1270	tio2 n3 dye electrolyte	0.5926	0.712	12	74	74	1	2023
+1271	tio2 n3 dye hec i	0.8509	0.0906	10	57	57	1	2021
+1272	tio2 ru	-0.1513	-0.3865	5	25	25	1	2019
+1273	tio2 surface	0.8526	0.0907	10	57	57	1	2021
+1274	tio2surface	0.3557	0.4258	13	69	69	1	2021
+1275	titanium	0.13	0.6463	9	39	39	1	2014
+1276	titanium dioxide graphene	0.0875	-0.2095	22	61	61	1	2024
+1277	toss nuclear magnetic resonance spectroscopy	-0.1443	-0.8003	8	36	36	1	2023
+1278	total reflection	-0.1441	-0.7999	8	36	36	1	2023
+1279	towards	0.3249	-0.1201	24	46	46	1	2013
+1280	toxicity	-0.1497	0.2209	4	38	38	1	2017
+1281	tpai	-0.1203	0.1271	18	44	44	1	2016
+1282	tpipa	0.8511	0.0921	10	57	57	1	2021
+1283	tpipa pt	0.8523	0.0904	10	57	57	1	2021
+1284	tpipabased polymer gel electrolyte	0.8524	0.0912	10	57	57	1	2021
+1285	traditional solid state junction photovoltaic device	0.0592	-0.0257	27	49	49	1	2017
+1286	transference number measurement	-0.5666	-0.4443	1	89	99	2	2018.5
+1287	transient cross	-0.6057	-0.3472	1	62	62	1	2015
+1288	transport property	-0.379	0.6399	28	21	21	1	2015
+1289	trend	2.6992	-0.4818	11	52	52	1	2018
+1290	tri iodide ion	-0.0655	-0.1495	21	56	56	1	2015
+1291	trifluoromethyl	0.6841	0.7042	6	141	157	2	2022.5
+1292	triphenylamine	0.8521	0.0924	10	57	57	1	2021
+1293	tris	0.8527	0.0916	10	57	57	1	2021
+1294	tunability	-0.0662	-0.1499	21	56	56	1	2015
+1295	type	0.1948	-0.8344	19	88	88	2	2018
+1296	ultralow cost mass producible photovoltaic device	0.4552	-0.691	19	43	43	1	2016
+1297	ultrasonic wave	-1.4929	-0.076	14	51	51	1	2022
+1298	ultrasonic wave exposure time	-1.4937	-0.074	14	51	51	1	2022
+1299	ultraviolet	-0.28	-0.6929	17	84	87	2	2021.5
+1300	unfavorable reaction	2.7014	-0.4827	11	52	52	1	2018
+1301	unprecedented efficiency	2.7015	-0.4813	11	52	52	1	2018
+1302	unsaturated bond	-1.0747	0.2493	20	39	39	1	2022
+1303	upscalable solution casting technique	-0.3573	0.0487	25	44	44	1	2021
+1304	use	-0.4517	-0.3247	15	82	87	2	2020
+1305	useful aspect	0.3258	-0.1209	24	46	46	1	2013
+1306	utilization	-0.0969	-0.9918	8	45	45	1	2020
+1307	uv vis spectroscopy	0.099	-0.4063	7	72	72	1	2014
+1308	uv visible spectroscopy	-0.4323	0.3367	20	106	108	2	2021.5
+1309	uv x ray diffraction	0.356	0.4252	13	69	69	1	2021
+1310	uvvis spectroscopic technique	0.7705	0.6982	6	83	83	1	2022
+1311	uvvisible spectroscopy	0.0866	-0.2116	22	61	61	1	2024
+1312	uvvisible spectrum	-0.0408	0.245	4	35	35	1	2020
+1313	v vs nhe	0.7703	0.6947	6	83	83	1	2022
+1314	value	-0.3788	0.0348	3	125	132	3	2021
+1315	vast use	-0.0657	-0.1518	21	56	56	1	2015
+1316	versatile way	0.0884	-0.2106	22	61	61	1	2024
+1317	vinyl alcohol	-0.0954	-0.7441	23	40	40	1	2022
+1318	vinyl imidazolium iodide	-0.0947	-0.744	23	40	40	1	2022
+1319	visible light	-1.0748	0.2493	20	39	39	1	2022
+1320	visible range	-1.0741	0.2492	20	39	39	1	2022
+1321	visible spectroscopy	-0.398	-0.6008	17	51	51	1	2020
+1322	vital role	0.3551	0.4268	13	69	69	1	2021
+1323	vitis vinifera	-1.0749	0.249	20	39	39	1	2022
+1324	voc	-0.1561	0.0505	18	227	294	7	2017.1429
+1325	voc decay rate	2.6995	-0.4826	11	52	52	1	2018
+1326	vogel tamman fulcher model	-0.5146	-0.3085	15	41	41	1	2016
+1327	vogel tamman fulcher model conductivity temperature behavior	-0.569	-0.3932	1	41	41	1	2022
+1328	vogel tammann fulcher relation	-0.606	-0.3467	1	62	62	1	2015
+1329	volt	-0.3757	0.1945	3	27	27	1	2014
+1330	voltage	0.0878	-0.2105	22	61	61	1	2024
+1331	voltage decay	-1.4931	-0.0757	14	51	51	1	2022
+1332	volume	-0.0648	-0.1495	21	56	56	1	2015
+1333	w kg	-0.3828	-0.0608	2	57	57	1	2023
+1334	water	-0.3185	0.9389	16	82	82	2	2015.5
+1335	water redistribution	-0.4153	1.3582	16	44	44	1	2014
+1336	wavelength	0.3252	-0.1215	24	46	46	1	2013
+1337	waxd	0.0033	0.8172	9	27	27	1	2014
+1338	way	0.616	0.249	10	160	177	3	2021.3333
+1339	weight percentage	0.1489	-0.2935	5	53	53	1	2021
+1340	weight ratio	-0.335	-0.0777	18	132	142	3	2018.3333
+1341	wh kg	-0.383	-0.0602	2	57	57	1	2023
+1342	wheat	-0.4141	1.3584	16	44	44	1	2014
+1343	whole mobility transport	0.8525	0.0924	10	57	57	1	2021
+1344	wide angle x ray diffraction	0.0033	0.8175	9	27	27	1	2014
+1345	work	0.0882	-0.0588	1	383	447	9	2019.5556
+1346	world population	-0.0981	-0.9911	8	45	45	1	2020
+1347	x ray diffraction	-0.3692	-0.142	3	245	343	8	2018.625
+1348	x ray diffraction characterization	-0.0452	-0.3737	5	42	42	1	2021
+1349	x ray diffraction study	-0.2251	-0.175	2	32	32	1	2010
+1350	x ray photoelectron spectrometry	-0.1448	-0.8003	8	36	36	1	2023
+1351	x ray powder diffraction analysis	-0.1445	-0.7997	8	36	36	1	2023
+1352	xanthan gum	0.3538	0.4249	13	69	69	1	2021
+1353	xps spectroscopy	0.6109	0.249	26	51	51	1	2022
+1354	xrd	-0.0394	-0.1711	2	399	526	11	2018.1818
+1355	xrd data	-0.3134	0.2108	3	38	38	1	2015
+1356	xrd result	-0.395	-0.3395	15	46	46	1	2024
+1357	yield	0.0472	0.5148	4	36	36	1	2022
+1358	zinc oxide	-0.3956	-0.3394	15	46	46	1	2024
+1359	zinc oxide nanoparticles	-1.4935	-0.0758	14	51	51	1	2022
+1360	zinc oxide semiconductor	-0.3975	-0.6011	17	51	51	1	2020
+1361	zno	-0.3963	-0.4829	17	93	97	2	2022
+1362	zno nano material	-1.4936	-0.0761	14	51	51	1	2022
+1363	zno nanoparticles inclusion	-0.3953	-0.338	15	46	46	1	2024
